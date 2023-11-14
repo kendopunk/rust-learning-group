@@ -25,19 +25,19 @@ fn add_f64s(num1: f64, num2: f64) -> f64 {
 }
 
 fn main() {
-    // 8-bit
+    // 8-bit integers
     let i1 = 8i8;
     let i2 = 10u8;
     println!("i1 + i2 = {}", add_i8s(i1, i2));
 
-    // 32-bit
-    let u1: i32 = 200;
-    let u2: u32 = 300;
+    // 32-bit integers
+    let u1: u32 = 200;
+    let u2: f64 = 300;
     println!("u1 + u2 = {}", add_u32s(u1, u2));
 
     // floats
-    let f1 = 3.14159f64;
-    let f2 = 1.23456f32;
+    let f1 = 3.14159f32;
+    let f2 = 1.23456f64;
     println!("f1 + f2 = {}", add_f64s(f1, f2));
 
     // tuples

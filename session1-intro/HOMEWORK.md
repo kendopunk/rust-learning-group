@@ -48,3 +48,4 @@ $> cd my_project
 1. `$> cargo doc`
 2. Check the `target` directory to see where the documentation was generated
 3. Open the `index.html` for session1-intro in the browser of your choice.
+4. Run `$> cargo clean` to remove the `target` directory

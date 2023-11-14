@@ -32,9 +32,8 @@ mod test {
         assert_eq!(tup.1, 20.0);
     }
 
-    // Fix this test and figure out a way to have
-    // the variables "second" and "third" ignored by the compiler
-    // i.e. get rid of the "unused variable" message
+    // Figure out a way to have the variables "second" and "third"
+    // ignored by the compiler, i.e. get rid of the "unused variable" message
     // HINT:  The compiler will guide you
     #[test]
     fn fix_this_other_tuple_test() {
