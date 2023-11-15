@@ -1,5 +1,3 @@
-use std::array;
-
 mod test;
 
 /// Add two 8-bit integers together
@@ -25,6 +23,8 @@ fn add_f64s(num1: f64, num2: f64) -> f64 {
 }
 
 fn main() {
+    /*
+    UNCOMMENT HERE...
     // 8-bit integers
     let i1 = 8i8;
     let i2 = 10u8;
@@ -65,4 +65,6 @@ fn main() {
         radius,
         radius * radius * PI
     );
+    ...TO HERE
+    */
 }
