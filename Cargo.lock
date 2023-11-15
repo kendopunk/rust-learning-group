@@ -7,7 +7,7 @@ name = "sandbox"
 version = "0.1.0"
 
 [[package]]
-name = "session1-intro"
+name = "session1"
 version = "0.1.0"
 
 [[package]]
