@@ -17,35 +17,37 @@ $> cd my_project
 ```
 
 1. View the contents and structure of the new project
-2. Run `$> cargo run` from the command line. What do you see?
-3. Look at the contents of the `target` folder created as part of `cargo run`
-4. On the command line, run the executable created in `target`, i.e. `$> ./target/debug/my_project`
-5. Create a release build using `$> cargo build --release`. What do you see in the `target` directory now?
-6. Compare the byte sizes of the debug and release build.
+1. Run `$> cargo run` from the command line. What do you see?
+1. Look at the contents of the `target` folder created as part of `cargo run`
+1. On the command line, run the executable created in `target`, i.e. `$> ./target/debug/my_project`
+1. Create a release build using `$> cargo build --release`. What do you see in the `target` directory now?
+1. Compare the byte sizes of the debug and release build.
 
 ---
 
 ## 3) Fix main.rs in session1
 
-1. The `main.rs` has several intentional errors
-2. Run `$> cargo run --bin session1` and reviewing the errors and warnings
-3. Fix the problems using the Rust Analyzer extension and the compiler output
-4. There will be some code we haven't covered yet, like `mod test` and `#[allow(dead_code)]`. Disregard for now
+1. session1 `main.rs` has several intentional errors
+1. Remove the block comments from the words `UNCOMMENT HERE...` to the words `...TO HERE`
+1. Run `$> cargo run --bin session1` and reviewing the errors and warnings
+1. Fix the problems using the Rust Analyzer extension and the compiler output
+1. There will be some code we haven't covered yet, like `mod test` and `#[allow(dead_code)]`. Disregard for now
 
 ---
 
 ## 4) Fix the tests
 
-1. The `test.rs` file has errors as well.
-2. Using `$> cargo test --bin session1`
-3. Using what you learned in this first lesson, fix the test code.
-4. If you want to know about test assertions, i.e. `assert_eq!`, [see here](https://doc.rust-lang.org/std/macro.assert_eq.html)
+1. `test.rs` also has intentional errors as well
+1. Remove the block comments from the words `UNCOMMENT HERE...` to the words `...TO HERE`
+1. Using `$> cargo test --bin session1`
+1. Using what you learned in this first lesson, fix the test code.
+1. If you want to know about test assertions, i.e. `assert_eq!`, [see here](https://doc.rust-lang.org/std/macro.assert_eq.html)
 
 ---
 
 ## 5) Generate the documentation
 
 1. `$> cargo doc`
-2. Check the `target` directory to see where the documentation was generated
-3. Open the `index.html` for session1 in the browser of your choice.
-4. Run `$> cargo clean` to remove the `target` directory
+1. Check the `target` directory to see where the documentation was generated
+1. Open the `index.html` for session1 in the browser of your choice.
+1. Run `$> cargo clean` to remove the `target` directory

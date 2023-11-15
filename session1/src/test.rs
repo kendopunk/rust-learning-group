@@ -1,5 +1,7 @@
 #[cfg(test)]
 mod test {
+    /*
+     UNCOMMENT HERE...
     // we're importing the functions from main.rs
     use crate::add_f64s;
     use crate::add_i8s;
@@ -47,4 +49,6 @@ mod test {
         let arr = [10; 5];
         assert_eq!(arr.len(), 10, "The length of arr is");
     }
+    ...TO HERE
+    */
 }
