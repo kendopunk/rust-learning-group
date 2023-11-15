@@ -4,6 +4,6 @@ resolver = "2"
 
 members = [
   "sandbox",
-  "session1-intro"
+  "session1"
 ]
 
