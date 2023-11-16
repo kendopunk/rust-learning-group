@@ -40,7 +40,7 @@ mod test {
     #[test]
     fn fix_this_other_tuple_test() {
         let tup: (u8, u8, i32) = (1, 2, 300);
-        let (first, second, third) = tup;
+        let (first, second) = tup;
         assert_eq!(first, 2);
     }
 

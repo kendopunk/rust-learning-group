@@ -23,6 +23,7 @@ fn add_f64s(num1: f64, num2: f64) -> f64 {
 }
 
 fn main() {
+    println!("Hello, Session 1!");
     /*
     UNCOMMENT HERE...
     // 8-bit integers
