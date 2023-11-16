@@ -29,6 +29,7 @@ $> cd my_project
 
 1. session1 `main.rs` has several intentional errors
 1. Remove the block comments from the words `UNCOMMENT HERE...` to the words `...TO HERE`
+1. ...or pull out blocks of code individually outside the comments and work on them one at a time.
 1. Run `$> cargo run --bin session1` and reviewing the errors and warnings
 1. Fix the problems using the Rust Analyzer extension and the compiler output
 1. There will be some code we haven't covered yet, like `mod test` and `#[allow(dead_code)]`. Disregard for now
