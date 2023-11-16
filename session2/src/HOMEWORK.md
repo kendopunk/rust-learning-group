@@ -25,6 +25,7 @@ fn main() {
 
 1. session2 `main.rs` has several intentional errors
 1. Remove the block comments from the words `UNCOMMENT HERE...` to the words `...TO HERE`
+1. ...or pull out blocks of code individually outside the comments and work on them one at a time.
 1. Run `$> cargo run --bin session2` and reviewing the errors and warnings
 1. Fix the problems using the Rust Analyzer extension and the compiler output
 
