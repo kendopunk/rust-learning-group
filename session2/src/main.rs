@@ -66,7 +66,6 @@ fn main() {
 
     // WHAT IS A BETTER WAY TO WRITE THIS MATCH?
     let apples: u8 = 7;
-
     match apples {
         1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 => println!("You have less than 10 apples."),
         _x if apples >= 10 => println!("You have 10 or more apples."),
@@ -80,6 +79,14 @@ fn main() {
         _x if !is_odd(x) => false
     };
     println!("Number is odd? {}", number_is_odd);
+
+    // PATTERN MATCHING BINDINGS
+    // Using the binding syntax (@), make this code print "At least one passing grade."
+    let scores: (f32, f32, f32) = (55.5, 59.9, 60.1);
+    match scores {
+        YOUR_CODE_HERE => println!("At least one passing grade."),
+        _ => println!("Everyone failed.")
+    }
 
     ...TO HERE
     */
