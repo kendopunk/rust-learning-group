@@ -1,3 +1,5 @@
+mod test;
+
 #[allow(dead_code)]
 fn multiply_two_numbers(a: i32, b: i32) -> i32 {
     a * b
@@ -42,7 +44,7 @@ fn main() {
         println!("GTE 200");
     }
 
-    // IF / LET
+    // LET-IF
     let passed = true;
     let score = if passed { 60 } else { "fail" };
     println!("score = {}", score);
@@ -84,7 +86,7 @@ fn main() {
     // Using the binding syntax (@), make this code print "At least one passing grade."
     let scores: (f32, f32, f32) = (55.5, 59.9, 60.1);
     match scores {
-        YOUR_CODE_HERE => println!("At least one passing grade."),
+        YOUR_CODE_HERE_USING_BINDINGS => println!("At least one passing grade."),
         _ => println!("Everyone failed.")
     }
 
