@@ -8,7 +8,7 @@ If using VSCode, install the [Rust Analyzer](https://code.visualstudio.com/docs/
 
 ---
 
-## 2) Create a new project using cargo
+## 2) Create a new project using cargo in a separate folder outside of this project, like your home directory
 
 ```sh
 $> cd some_directory
