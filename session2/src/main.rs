@@ -17,9 +17,12 @@ fn is_odd(num: i32) -> bool {
 
 fn main() {
     println!("Hello, Session 2");
-
     /*
     UNCOMMENT HERE...
+
+    // println!
+    let my_tuple = (100, 33.3, 'x');
+    println!("my_tuple = {}", my_tuple);
 
     // FUNCTIONS
     let result = multiply_two_numbers(10i32, 20u32);
@@ -82,12 +85,12 @@ fn main() {
     };
     println!("Number is odd? {}", number_is_odd);
 
-    // PATTERN MATCHING BINDINGS
     // Using the binding syntax (@), make this code print "At least one passing grade."
-    let scores: (f32, f32, f32) = (55.5, 59.9, 60.1);
+    // passing grade = 60 or better
+    let scores: (u16, u16, u16) = (55, 58, 72);
     match scores {
-        YOUR_CODE_HERE_USING_BINDINGS => println!("At least one passing grade."),
-        _ => println!("Everyone failed.")
+        [[[YOUR_CODE_HERE_USING_BINDINGS]]] => println!("At least one passing grade."),
+        _ => println!("Everyone failed."),
     }
 
     ...TO HERE

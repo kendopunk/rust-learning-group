@@ -4,7 +4,7 @@
 
 1. We're building a simple Rust program that needs to convert between camel (HelloWorld), kebab (hello-world) and snake (hello_world) cases.
 1. Create a new `cargo` project and name it whatever you'd like.
-1. Using [crates.io](https://crates.io/), see if you can find a package that does this kind of case conversion (it exists).
+1. Using [crates.io](https://crates.io/), see if you can find a package that does this kind of case conversion (it does exist).
 1. Follow the instructions on crates.io to add this dependency to your project
 1. Write a program which converts "hello world":
    1. From snake to camel
@@ -13,7 +13,7 @@
    1. from kebab to snake
    1. from camel to snake
    1. from came to kebab
-1. Suggest using `assert_eq!` (called a macro in Rust) rather than `println!`
+1. Suggest using the `assert_eq!` macro rather than `println!`
 
 ```rust
 fn main() {
