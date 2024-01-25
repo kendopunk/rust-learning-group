@@ -1,4 +1,4 @@
-# Session 1 Homework
+# Session 2 Homework
 
 ## 1) Working with cargo, crates.io and Dependencies
 
