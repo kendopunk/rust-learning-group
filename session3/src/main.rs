@@ -79,6 +79,12 @@ fn main() {
     add_borrowing(s1);
     assert_eq!(s1, "Ownership and Borrowing");
 
+    // add the reference (&) in one place to make this borrow work
+    let x = String::from("Rust Learning Group"); // x owns this string
+    let y = x;
+    println!("x is still alive ->  {}", x);
+    println!("y is alive, too -> {}", y)
+
     // add the reference operator (&) in two places in this code block
     // to get it to work
     {
@@ -90,7 +96,6 @@ fn main() {
         print_vector(v);  // hint: print_vector() is taking ownership of v here
         println!("{}", v[0]); // this will error until you fix it
     }
-
     ...TO HERE
     */
 }
