@@ -4,45 +4,42 @@ mod test {
     /*
      UNCOMMENT HERE...
 
-    // importing the functions from main.rs
-    use crate::is_odd;
-    use crate::multiply_two_numbers;
-    use crate::square_float;
-
     #[test]
-    fn main_functions_test() {
-        assert_eq!(multiply_two_numbers(2, 2), 4);
-        assert_eq!(square_float(2.2), 4.84);
-        assert_eq!(is_odd(7), true);
-    }
-
-    #[test]
-    fn test_scoping() {
-        let a: i32 = 10;
-        {
-            #[allow(unused_variables)]
-            let a: i32 = 15;
+    fn mutate_a_vector() {
+        fn remove_value_from_vec(v: &mut Vec<i32>) -> &Vec<i32> {
+            v.remove(4);
+            v
         }
-        assert_eq!(a, 15);
+
+        let mut numbers = vec![1, 2, 3, 4, 5, 6];
+
+        remove_value_from_vec(numbers);
+        assert_eq!(numbers, vec![1, 2, 3, 4, 6])
     }
 
     #[test]
-    fn test_let_if() {
-        let num_apples = 10;
-        let has_apples = if num_apples > 0 { true } else { 0 };
-        assert_eq!(has_apples, true);
-    }
-
-    #[test]
-    fn test_match() {
-        let num_cars: u8 = 10;
-
-        match num_cars {
-            1..10 => println!("You have 10 or fewer cars."),
-            _ => println!("You have more than 10 cars."),
+    fn vector_match_one() {
+        let v = vec![1, 2, 3, 4, 5];
+        let result = match v.get(1) {
+            Some(2) => Some(2),
+            _ => None,
         };
+        assert_eq!(result, 2);
     }
 
+    #[test]
+    fn vector_match_two_with_str() {
+        let v = vec!["Toyota", "Jeep", "Honda", "Porsche"];
+
+        let result = match v.get(3) {
+            Some("Honda") | Some("Toyota") => "Made in Japan",
+            Some("Jeep") => "Made in USA",
+            Some("Porsche") => "Made in Germany",
+            _ => "No match",
+        };
+
+        assert_eq!(result, "Made in Germany");
+    }
 
     ...TO HERE
     */

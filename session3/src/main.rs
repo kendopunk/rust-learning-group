@@ -85,7 +85,7 @@ fn main() {
     println!("x is still alive ->  {}", x);
     println!("y is alive, too -> {}", y)
 
-    // add the reference operator (&) in two places in this code block
+    // add the reference / borrow operator (&) in two places in this code block
     // to get it to work
     {
         fn print_vector(v: Vec<i32>) {
