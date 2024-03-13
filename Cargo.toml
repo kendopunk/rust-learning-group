@@ -6,6 +6,7 @@ members = [
   "sandbox",
   "session1",
   "session2",
-  "session3"
+  "session3",
+  "session4"
 ]
 

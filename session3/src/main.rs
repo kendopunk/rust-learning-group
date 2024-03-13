@@ -1,5 +1,6 @@
 mod test;
 
+#[allow(dead_code)]
 fn unused_function(v: Vec<i32>) {
     println!("Pretty print vector: {:#?}", v);
 }
