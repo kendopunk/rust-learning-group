@@ -7,5 +7,7 @@
 1. Look for // @TODO comments for code you need to write / provide
 1. Run `$> cargo run --bin session4` and reviewing the errors and warnings
 1. This homework also gives a gentle introduction to Rust's module system...pretty easy to figure out, but it can get complicated later
+1. If you run into some module issues, make sure your module methods are `pub` (public) where they need to be.
+1. Happy Rusting
 
 ---

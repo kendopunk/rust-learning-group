@@ -23,7 +23,6 @@ mod my_module {
         pub name: String,
         pub legs: u8,
     }
-
     // @TODO
     // (1) derive a compiler-provided printable format for the Cat struct
     // (2) create a pretty-print version for the Bird struct
@@ -34,6 +33,8 @@ mod my_module {
     // (6) Implement Speak for Cat -> "meow"
     // (7) Implement Speak for Bird -> "chirp"
 }
+
+// use my_module::Speak
 
 fn main() {
     println!("Hello, Session 4");
@@ -91,6 +92,10 @@ fn main() {
     let default_bird = my_module::Bird::default();
     println!("Default cat: {:?}", default_cat);
     println!("Default bird: {:?}", default_bird);
+
+    // (8) Traits - implementation
+    default_cat.speak();
+    default_bird.speak();
 
     ...TO HERE
     */
