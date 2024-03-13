@@ -1,6 +1,6 @@
 # Session 3 Homework
 
-## 1) Fix main.rs in session2
+## 1) Fix main.rs in session3
 
 1. session3 `main.rs` has several intentional errors
 1. Use attributes to disable dead code and unused variable warnings for all of `main.rs`
@@ -12,7 +12,7 @@
 
 ---
 
-## 2) Fix test.rs in session2
+## 2) Fix test.rs in session3
 
 1. `test.rs` also has intentional errors as well
 1. Remove the block comments from the words `UNCOMMENT HERE...` to the words `...TO HERE`
