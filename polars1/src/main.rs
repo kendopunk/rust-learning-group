@@ -73,5 +73,15 @@ fn main() -> Result<(), PolarsError> {
     // let row = legal_services_emp_count_df.get(0).unwrap();
     // assert_eq!(row[1], polars::prelude::AnyValue::Int64(8360));
 
+    // ////////////////////////////////////////////////
+    // @TODO 8
+    // THIS ONE IS CHALLENGING
+    // Count the number of organizations where
+    // the "Website" series value starts with "https"
+    // [hint]: there is a "starts_with" function in one of the features
+    // ////////////////////////////////////////////////
+    // [YOUR CODE HERE]
+    // let https_df = df ...
+
     Ok(())
 }

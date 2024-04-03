@@ -7,6 +7,7 @@ use polars::prelude::*;
 fn main() -> Result<(), PolarsError> {
     println!("Hello Polars1");
 
+    // CHANGE THIS
     let filepath = "/path/to/your/file.csv";
 
     // ////////////////////////////////////////////////
@@ -106,6 +107,27 @@ fn main() -> Result<(), PolarsError> {
     // get the first row
     let row = legal_services_emp_count_df.get(0).unwrap();
     assert_eq!(row[1], polars::prelude::AnyValue::Int64(8360));
+
+    // ////////////////////////////////////////////////
+    // @TODO 8
+    // THIS ONE IS CHALLENGING
+    // Count the number of organizations where
+    // the "Website" series value starts with "https"
+    // [hint]: there is a "starts_with" function in one of the features
+    // ////////////////////////////////////////////////
+    let https_df = df
+        .clone()
+        .lazy()
+        .select([col("Website")
+            .str()
+            .starts_with(lit("https"))
+            .alias("IsHttps")])
+        .filter(col("IsHttps").eq(lit(true)))
+        .group_by(["IsHttps"])
+        .agg([col("IsHttps").sum().alias("TotalHttpsWebsites")])
+        .collect()?;
+
+    println!("{:?}", https_df);
 
     Ok(())
 }
