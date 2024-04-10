@@ -3,8 +3,8 @@
  * cargo run --bin polars1_playground
  ****************************************/
 #![allow(dead_code, unused_variables, unused_imports)]
-use polars::prelude::*;
+// use polars::prelude::*;
 
-fn main() -> Result<(), PolarsError> {
-    Ok(())
+fn main() {
+    println!("Hello Polars Playground!");
 }

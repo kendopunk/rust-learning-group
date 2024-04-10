@@ -7,7 +7,7 @@ use polars::prelude::*;
 fn main() -> Result<(), PolarsError> {
     println!("Hello Polars1");
 
-    let filepath = "/path/to/your/file.csv";
+    let filepath = "/path/to/your/organizations-100.csv";
 
     // ////////////////////////////////////////////////
     // @TODO 1
