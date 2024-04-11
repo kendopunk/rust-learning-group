@@ -9,6 +9,7 @@ members = [
   "session3",
   "session4",
   "session5",
-  "polars1"
+  "polars1",
+  "polars2"
 ]
 
