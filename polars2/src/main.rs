@@ -1,58 +1,20 @@
-//use polars::prelude::*;
-
-// fn main() -> Result<(), PolarsError> {
-//     //     let f1 = "/Users/mfehr/workspace/sandbox/rust/rust-learning-group/polars2/data/test.json";
-
-//     //     let df = JsonReader::new(&mut f1).finish()?;
-//     //     //let df = JSONReader::from_path(f1).unwrap().finish()?;
-
-//     //     println!("{:?}", df);
-
-//     //     Ok(())
-//     // }
-
-//     println!("alsdfs");
-// }
-#![allow(dead_code, unused_variables, unused_imports)]
-use polars::{
-    error::PolarsError,
-    io::{json::JsonReader, SerReader},
-};
+use polars::prelude::*;
 
 fn main() -> Result<(), PolarsError> {
-    // let file =
-    //     "/Users/mfehr/workspace/sandbox/rust/rust-learning-group/polars2/data/nested_newline.json";
+    let df = df![
+      "Fruit" => ["Apple", "Apple", "Pear"],
+      "Color" => ["red", "yellow", "green"],
+      "Buyer" => [Some("Mark"), None, Some("John")],
+      "Count" => [Some(1000), None, Some(100)]
+    ]?;
 
-    // let mut file = std::fs::File::open(file).unwrap();
-    // let df = JsonReader::new(&mut file).finish().unwrap();
-    // println!("{:?}", df);
+    let interp_df = df
+        .clone()
+        .lazy()
+        .with_columns([col("Count").interpolate(InterpolationMethod::Linear)])
+        .collect()?;
 
-    // let foo = df.select(["staff"]).expect("column selection error");
-    // println!("{:?}", foo.get_row(0));
-
-    // let file = "/Users/mfehr/workspace/sandbox/rust/rust-learning-group/polars2/data/nested.jsonl";
-
-    // let mut file = std::fs::File::open(file).unwrap();
-    // let df = JsonLineReader::new(&mut file).finish().unwrap();
-    // println!("{:?}", df);
+    println!("{:?}", interp_df);
 
     Ok(())
 }
-
-/*
-use polars::{
-  error::PolarsError,
-  io::{json::JsonReader, SerReader},
-};
-
-fn main() -> Result<(), PolarsError> {
-
-  let file = "/path/to/your/file.json";
-
-  let mut file = std::fs::File::open(file).unwrap();
-  let df = JsonReader::new(&mut file).finish().unwrap();
-    println!("{:?}", df);
-
-  Ok(())
-}
-* */
