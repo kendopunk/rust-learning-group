@@ -13,20 +13,27 @@ fn main() -> Result<(), PolarsError> {
     // - df_customers (customers.jsonl)
     // - df_orders (orders.csv)
     // ////////////////////////////////////////////////
+    // let df_albums =
+    // let df_customers =
+    // let df_orders =
     let mut album_file = std::fs::File::open(
         "/Users/mfehr/workspace/sandbox/rust/rust-learning-group/polars2/data/albums.json",
     )?;
     let df_albums = JsonReader::new(&mut album_file).finish()?;
-    // println!("{:?}", df_albums);
 
     let mut customer_file = std::fs::File::open(
         "/Users/mfehr/workspace/sandbox/rust/rust-learning-group/polars2/data/customers.jsonl",
     )?;
     let df_customers = JsonLineReader::new(&mut customer_file).finish()?;
-    // println!("{:?}", df_customers);
+
+    let df_orders = CsvReader::from_path(
+        "/Users/mfehr/workspace/sandbox/rust/rust-learning-group/polars2/data/orders.csv",
+    )
+    .unwrap()
+    .finish()?;
 
     // ////////////////////////////////////////////////
-    // @TODO (lesson 6 review)
+    // @TODO 2 (lesson 6 review)
     // Show the one album with earliest release date
     // display only the title, artist and release date
     // ////////////////////////////////////////////////
@@ -44,17 +51,24 @@ fn main() -> Result<(), PolarsError> {
         .limit(1)
         .collect()?
         .select(["title", "artist", "released"]);
-    // println!("{:?}", df_release);
-
-    let df_orders = CsvReader::from_path(
-        "/Users/mfehr/workspace/sandbox/rust/rust-learning-group/polars2/data/orders.csv",
-    )
-    .unwrap()
-    .finish()?;
-    // println!("{:?}", df_orders);
+    println!("{:?}", df_release);
 
     // ////////////////////////////////////////////////
-    // @TODO
+    // @TODO 3 (lesson 6 review)
+    // Calculate a single value representing the average
+    // spend across all orders
+    // ////////////////////////////////////////////////
+    let df_avg_spend = df_orders
+        .clone()
+        .lazy()
+        .drop_nulls(None)
+        .with_column((col("quantity") * col("price")).alias("CustomerSpend"))
+        .collect()?;
+
+    println!("{:?}", df_avg_spend["CustomerSpend"].mean());
+
+    // ////////////////////////////////////////////////
+    // @TODO 4
     // Some of the album prices in the
     // orders DF are missing, so please interpolate
     // some values
@@ -64,12 +78,12 @@ fn main() -> Result<(), PolarsError> {
         .lazy()
         .with_columns([col("price").interpolate(InterpolationMethod::Linear)])
         .collect()?;
-    // println!("{:?}", df_orders);
+    println!("{:?}", df_orders);
 
     // ////////////////////////////////////////////////
-    // @TODO
+    // @TODO 5
     // WHICH ACTIVE CUSTOMERS BOUGHT SOMETHING?
-    // Show active customers who bought an album
+    // Show only active customers who bought an album
     // ////////////////////////////////////////////////
     let df_customer_active = df_customers
         .clone()
@@ -82,10 +96,10 @@ fn main() -> Result<(), PolarsError> {
             JoinArgs::new(JoinType::Inner),
         )
         .collect()?;
-    // println!("{:?}", df_customer_active);
+    println!("{:?}", df_customer_active);
 
     // ////////////////////////////////////////////////
-    // @TODO
+    // @TODO 6
     // WHO DID NOT BUY SOMETHING?
     // Create a DataFrame which only shows the
     // customer(s) who DID NOT buy an album
@@ -103,13 +117,13 @@ fn main() -> Result<(), PolarsError> {
         .filter(col("id_right").is_null())
         .collect()?
         .select(["name", "location"]);
-    // println!("{:?}", df_no_album_purchase);
+    println!("{:?}", df_no_album_purchase);
 
     // ////////////////////////////////////////////////
-    // @TODO
-    // HOW MUCH DID EACH CUSTOMER PAY
-    // Calculate what each customer paid for their
-    // album(s) and just show the name and total price
+    // @TODO 7
+    // HOW MUCH DID EACH CUSTOMER PAY?
+    // Calculate spend for each customer
+    // and show the customer's name and their total spend
     // ////////////////////////////////////////////////
     let df_customer_total = df_orders
         .clone()
@@ -130,7 +144,7 @@ fn main() -> Result<(), PolarsError> {
         .group_by(["name"])
         .agg([col("Cost").sum().alias("TotalPurchase")])
         .collect()?;
-    // println!("{:?}", df_customer_total);
+    println!("{:?}", df_customer_total);
 
     Ok(())
 }

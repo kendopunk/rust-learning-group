@@ -1130,6 +1130,7 @@ name = "polars2"
 version = "0.1.0"
 dependencies = [
  "polars",
+ "polars-ops",
  "serde",
 ]
 
@@ -1138,6 +1139,7 @@ name = "polars_sandbox"
 version = "0.1.0"
 dependencies = [
  "polars",
+ "polars-ops",
  "serde",
 ]
 

@@ -7,4 +7,5 @@ edition = "2021"
 
 [dependencies]
 polars = { version = "0.38.3", features = ["lazy", "strings", "json", "dtype-struct", "cross_join", "interpolate"] }
+polars-ops = { version = "0.38.3", features = ["pivot"]}
 serde = { version = "1.0.197", features = ["derive"] }
