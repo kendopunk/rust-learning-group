@@ -15,6 +15,9 @@ fn main() -> Result<(), PolarsError> {
     // - df_albums (albums.json)
     // - df_customers (customers.jsonl)
     // - df_orders (orders.csv)
+    //
+    // Double check your file path(s) relative to your
+    // environment
     // ////////////////////////////////////////////////
     // [YOUR CODE HERE]
     // let df_albums =
