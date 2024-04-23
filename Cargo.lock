@@ -1135,11 +1135,16 @@ dependencies = [
 ]
 
 [[package]]
+name = "polars3"
+version = "0.1.0"
+
+[[package]]
 name = "polars_sandbox"
 version = "0.1.0"
 dependencies = [
  "polars",
  "polars-ops",
+ "polars-sql",
  "serde",
 ]
 

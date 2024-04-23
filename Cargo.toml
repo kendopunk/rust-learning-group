@@ -11,6 +11,7 @@ members = [
   "session5",
   "polars_sandbox",
   "polars1",
-  "polars2"
+  "polars2",
+  "polars3"
 ]
 
