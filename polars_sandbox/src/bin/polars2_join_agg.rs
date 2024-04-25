@@ -1,6 +1,6 @@
 /****************************************
  * Example of a join w/ aggregations
- * cargo run --bin polars2_agg_join
+ * cargo run --bin polars2_join_agg
  ****************************************/
 #![allow(dead_code, unused_variables, unused_imports)]
 
