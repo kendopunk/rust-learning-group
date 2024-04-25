@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "released": 1982,
+    "sales": 130000000
+  },
+  {
+    "id": 2,
+    "title": "Back in Black",
+    "artist": "AC/DC",
+    "released": 1980,
+    "sales": 49000000
+  },
+  {
+    "id": 3,
+    "title": "21",
+    "artist": "Adele",
+    "released": 2011,
+    "sales": 31000000
+  },
+  {
+    "id": 4,
+    "title": "The Wall",
+    "artist": "Pink Floyd",
+    "released": 1979,
+    "sales": 30000000
+  },
+  {
+    "id": 5,
+    "title": "Appetite for Destruction",
+    "artist": "Guns N' Roses",
+    "released": 1987,
+    "sales": 28000000
+  },
+  {
+    "id": 6,
+    "title": "Greatest Hits",
+    "artist": "Queen",
+    "released": 1981,
+    "sales": 25000000
+  },
+  {
+    "id": 7,
+    "title": "Legend",
+    "artist": "Bob Marley & the Wailers",
+    "released": 1984,
+    "sales": 20000000
+  }
+]
