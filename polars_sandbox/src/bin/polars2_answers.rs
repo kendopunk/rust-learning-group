@@ -5,6 +5,12 @@
 use polars::prelude::*;
 
 fn main() -> Result<(), PolarsError> {
+    let base_path =
+        String::from("/Users/mfehr/workspace/sandbox/rust/rust-learning-group/polars2/data");
+    let albums_path = format!("{base_path}/albums.json");
+    let customers_path = format!("{base_path}/customers.jsonl");
+    let orders_path = format!("{base_path}/orders.csv");
+
     // ////////////////////////////////////////////////
     // @TODO 1
     // Load albums.json, customers.jsonl and orders.csv into
@@ -13,24 +19,13 @@ fn main() -> Result<(), PolarsError> {
     // - df_customers (customers.jsonl)
     // - df_orders (orders.csv)
     // ////////////////////////////////////////////////
-    // let df_albums =
-    // let df_customers =
-    // let df_orders =
-    let mut album_file = std::fs::File::open(
-        "/Users/mfehr/workspace/sandbox/rust/rust-learning-group/polars2/data/albums.json",
-    )?;
+    let mut album_file = std::fs::File::open(albums_path)?;
     let df_albums = JsonReader::new(&mut album_file).finish()?;
 
-    let mut customer_file = std::fs::File::open(
-        "/Users/mfehr/workspace/sandbox/rust/rust-learning-group/polars2/data/customers.jsonl",
-    )?;
+    let mut customer_file = std::fs::File::open(customers_path)?;
     let df_customers = JsonLineReader::new(&mut customer_file).finish()?;
 
-    let df_orders = CsvReader::from_path(
-        "/Users/mfehr/workspace/sandbox/rust/rust-learning-group/polars2/data/orders.csv",
-    )
-    .unwrap()
-    .finish()?;
+    let df_orders = CsvReader::from_path(orders_path).unwrap().finish()?;
 
     // ////////////////////////////////////////////////
     // @TODO 2 (lesson 6 review)
