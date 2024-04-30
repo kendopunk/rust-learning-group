@@ -2,32 +2,70 @@
  * cargo run --bin polars3
  ****************************************/
 #![allow(dead_code, unused_variables, unused_imports)]
+use chrono::NaiveDate;
 use polars::{lazy::dsl::col, prelude::*};
 fn main() -> Result<(), PolarsError> {
-    let data = ["2024-01-03", "2024-03-17", "2024-04-04", "2024-04-07"];
+    // ////////////////////////////////////////////////
+    // @TODO 1
+    // Load the CSV files into
+    // "df_products", "df_dist" and "df_stocks" respectively
+    // ////////////////////////////////////////////////
+    // assert_eq!(df_products.shape(), (500, 7));
+    // assert_eq!(df_dist.shape(), (3, 4));
+    // assert_eq!(df_stocks.shape(), (21, 6));
 
-    let df = df!(
-      "Date" => data
-    )?
-    .clone()
-    .lazy()
-    .with_columns([col("Date").str().to_date(StrptimeOptions {
-        format: Some("%Y-%m-%d".into()),
-        strict: false,
-        exact: true,
-        cache: false,
-    })])
-    .collect()?;
+    // ////////////////////////////////////////////////
+    // @TODO 2 (Datetime)
+    // Calculate the average close price for the stock
+    // from April 17 to the end of the month (inclusive)
+    // ////////////////////////////////////////////////
 
-    // assuming we have a valid datetime type
+    // ////////////////////////////////////////////////
+    // @TODO 3 (SQL)
+    // Create the SQL context and register the two DataFrames
+    // ////////////////////////////////////////////////
 
-    let df_with_year = df
-        .clone()
-        .lazy()
-        .with_columns([col("Date").dt().century().alias("Century")])
-        .collect()?;
+    // ////////////////////////////////////////////////
+    // @TODO 4 (SQL)
+    // Run a SHOW TABLES query
+    // ////////////////////////////////////////////////
 
-    println!("{:?}", df_with_year);
+    // ////////////////////////////////////////////////
+    // @TODO 5 (SQL)
+    // select the name, category and retail price of the
+    // 10 most expensive products
+    // ////////////////////////////////////////////////
+
+    // ////////////////////////////////////////////////
+    // @TODO 6 (SQL)
+    // Join products and distribution_ctr
+    // where the brand is "Wayfarers"
+    // ////////////////////////////////////////////////
+
+    // ////////////////////////////////////////////////
+    // @TODO 7 (SQL)
+    // What is the average price of men's socks
+    // in the Houston distribution center
+    // ////////////////////////////////////////////////
+
+    // ////////////////////////////////////////////////
+    // @TODO 8 (SQL)
+    // What is the total retail value of all
+    // women's category products in the Chicago distribution center
+    // ////////////////////////////////////////////////
+
+    // ////////////////////////////////////////////////
+    // @TODO 9 (SQL)
+    // Use CTE to create a temporary table called "memphis_jeans"
+    // of category = Jeans and distribution center = Memphis
+    // then select everything in the Women's department
+    // ////////////////////////////////////////////////
+
+    // ////////////////////////////////////////////////
+    // @TODO 10 (SQL)
+    // Find the lowest price price product where
+    // the product name ends with "Socks"
+    // ////////////////////////////////////////////////
 
     Ok(())
 }
