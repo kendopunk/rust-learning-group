@@ -6,7 +6,7 @@ use chrono::NaiveDate;
 use polars::{lazy::dsl::col, prelude::*};
 fn main() -> Result<(), PolarsError> {
     // ////////////////////////////////////////////////
-    // @TODO 1
+    // @TODO 1 (Loading Data)
     // Load the CSV files into
     // "df_products", "df_dist" and "df_stocks" respectively
     // ////////////////////////////////////////////////
@@ -65,6 +65,12 @@ fn main() -> Result<(), PolarsError> {
     // @TODO 10 (SQL)
     // Find the lowest price price product where
     // the product name ends with "Socks"
+    // ////////////////////////////////////////////////
+
+    // ////////////////////////////////////////////////
+    // @TODO 11 (SQL and Datetime)...stock_data.csv
+    // Find the average volume for the
+    // first 7 days (1-6, inclusive) of the month
     // ////////////////////////////////////////////////
 
     Ok(())
