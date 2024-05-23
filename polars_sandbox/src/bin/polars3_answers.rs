@@ -50,7 +50,7 @@ fn main() -> Result<(), PolarsError> {
 
     // ////////////////////////////////////////////////
     // @TODO 3 (SQL)
-    // Create the SQL context and register the two DataFrames
+    // Create the SQL context and register the DataFrames
     // ////////////////////////////////////////////////
     let mut ctx = SQLContext::new();
     ctx.register("products", df_products.lazy());
