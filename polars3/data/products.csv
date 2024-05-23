@@ -1,0 +1,501 @@
+ProductID,Brand,Category,Department,DistributionCenterID,Name,RetailPrice
+7044,!it Jeans,Shorts,Women,2,!iT Jeans Junior's Billy Shorts,48
+6397,!it Jeans,Shorts,Women,2,!iT Jeans Women's Bonaroo Slouch Shorts,11
+6515,!it Jeans,Shorts,Women,2,!iT Jeans Women's Bureau Trouser Denim Short,36.290000915527344
+6559,!it Jeans,Shorts,Women,2,!iT Jeans Women's Coachella Canyon Stretch Shorts,25
+6570,!it Jeans,Shorts,Women,2,!iT Jeans Women's Coachella Shorts,25
+4626,!it Jeans,Jeans,Women,2,!iT Jeans Women's Curvy Slim Boot Jean,87
+4220,!it Jeans,Jeans,Women,2,!iT Jeans Women's Curvy Stiletto Jean,79.98999786376953
+4888,!it Jeans,Jeans,Women,2,!iT Jeans Women's Harvest Crop Jean,28.709999084472656
+5005,!it Jeans,Jeans,Women,2,!iT Jeans Women's Skinny Micro Printed Corduroy,55.86000061035156
+6268,Nollia,Leggings,Women,1,'Sexy Legs' Beaded Band Fashion Leggings,8.989999771118164
+5826,Nollia,Leggings,Women,1,'Sexy Legs' Black Jean Stretch Fashion Leggings,8.989999771118164
+6267,Nollia,Leggings,Women,1,'Sexy Legs' Elliptical Pattern Fashion Leggings,8.989999771118164
+5440,Ice,Pants & Capris,Women,1,(1272) Wide Leg Smart Soft City Trousers Black,27.989999771118164
+5474,Ice,Pants & Capris,Women,1,(1279) Skinny Trousers Military Army Look Camourflage,24.989999771118164
+7246,Ice,Skirts,Women,1,(2328) Satin Pencil Skirt with Skinny Belt Purple,23.989999771118164
+7377,Ice,Skirts,Women,1,(2382) Waist Detail Pencil Skirt Shadow Stripe,24.989999771118164
+7448,Ice,Skirts,Women,1,(2384) Fishtail Flute Skirt with Free Skinny Belt Beige,24.989999771118164
+7234,Ice,Skirts,Women,1,(2384) Fishtail Peplum Hem Pencil Skirt Black,24.989999771118164
+8188,Ice,Suits,Women,1,(6239) Waist Detail Pencil Skirt Suit Shadow Stripe Black,55.9900016784668
+8109,Ice,Suits,Women,1,(6240) Dip Hemmed Flute Skirt Suit Pinstripe Black,63.9900016784668
+8139,Ice,Suits,Women,1,(6242) Function Cocktail Lace Bolero Skirt Suit Black,95.98999786376953
+8089,Ice,Suits,Women,1,(6249-2) Smart Satin Evening Suit with Flute Skirt Beige,75.98999786376953
+8145,Ice,Suits,Women,1,(6249-3) Teddy Style Function Suit with Pencil Skirt Grey,75.98999786376953
+8107,Ice,Suits,Women,1,(6251) Smart Casual Tailored Trouser Suit Dark Grey,55.9900016784668
+8080,Ice,Suits,Women,1,(6252) Pinstripe Tailored Boot Leg Trouser Suit,57.9900016784668
+28405,Perry,Accessories,Men,1,1 1/2 In. Original Perry Suspenders,16.899999618530273
+5955,JMS,Leggings,Women,2,1-Pair JMS Comfort Top Legging Hosiery 89003 4X Black,6
+7337,Mina,Skirts,Women,1,100 % Polyester Tuxedo Skirts Black-Your Choice Mid Length (Left Hand Side) or Full Length (Right Hand Side),29.950000762939453
+29047,Belts.com,Accessories,Men,1,100% Cowhide Leather Black Leather Belt Snap on Belt Strap 1.5 Wide,9.989999771118164
+9493,SK Hat shop,Socks & Hosiery,Women,2,12 Pairs Ladies Winter Solid Plain Blank Toe Warm Low Cut Ankle Short Socks Set,24.950000762939453
+15636,Maria Rosa,Plus,Women,1,12-Pairs Assorted Designs Ankle/Trainer Socks. #5821-A,12
+7354,Agan Traders,Skirts,Women,3,120 Agan Traders SKT Dancing Renaissance Vintage Embroidered Skirt,36.9900016784668
+28400,180s,Accessories,Men,3,180's Men's Metro Ear Warmers - Black,25
+28746,180s,Accessories,Men,3,180s Men's Admiral Ear Warmer,13.819999694824219
+28809,180s,Accessories,Men,3,180s Men's Chesterfield Ear Warmer,24.989999771118164
+8918,180s,Socks & Hosiery,Women,3,180s Men's Foundation Glove,19.5
+28497,180s,Accessories,Men,3,180s Men's Foundation Glove,19.5
+13720,180s,Accessories,Women,3,180s Men's Foundation Glove,19.5
+28969,180s,Accessories,Men,3,180s Men's Soft Shell Ear Warmer,20
+28330,180s,Accessories,Men,3,180s Men's Tec Fleece Ear Warmer,30
+28427,180s,Accessories,Men,3,180s Men's Urban Ear Warmer,25
+28772,180s,Accessories,Men,3,180s Men's Weekender TecTouch Glove,17.31999969482422
+13961,180s,Accessories,Women,3,180s Women's Down Ear Warmer,22.399999618530273
+15379,180s,Plus,Women,3,180s Women's Keystone Earmuff,18.989999771118164
+13684,180s,Accessories,Women,3,180s Women's Keystone Earmuff,18.989999771118164
+13756,180s,Accessories,Women,3,180s Women's Lush Ear Warmer,24.989999771118164
+15524,180s,Plus,Women,3,180s Women's Lush Ear Warmer,24.989999771118164
+15357,180s,Plus,Women,3,180s Women's Tahoe Ear Warmer,25
+13615,180s,Accessories,Women,3,180s Women's Tahoe Earmuff,30
+20155,Fellini Uomo,Suits & Sport Coats,Men,3,2 Button Modern Fit Tuxedo,99
+10499,Anemone,Intimates,Women,3,2 PACK: Black Lace Bralette,14.989999771118164
+12872,Celina,Swim,Women,2,2 PC. Ladies American Flag Bikini Swimwear,24.989999771118164
+10650,Anemone,Intimates,Women,3,2 Pack: Coral and Neon Pink Lace Bralettes,15.989999771118164
+28887,Perry,Accessories,Men,1,2 inch Perry Outback Comfort Suspenders (Wear Like a Vest),26.989999771118164
+10602,Anemone,Intimates,Women,3,2 or 4 PACK: Seamless Removable Strap Bras,14.989999771118164
+188,Zenana,Tops & Tees,Women,2,2 or 4 Pack: Zenana Cami Sets Many Colors Available 22,19.950000762939453
+13648,Greatlookz,Accessories,Women,3,22 Classic Adult Size Long Opera Length Satin Gloves in 41 Colors,12.949999809265137
+24644,2XU,Socks,Men,1,2XU Men's Compression Race Sock,49.95000076293945
+18394,2XU,Active,Men,1,2XU Men's Compression Race Sock,49.95000076293945
+18363,2XU,Active,Men,1,2XU Men's Compression Recovery Tights,159.94000244140625
+24674,2XU,Socks,Men,1,2XU Men's Elite Compression Performance Sock,60
+18708,2XU,Active,Men,1,2XU Men's Thermal Compression Long Sleeve Top,111.22000122070312
+18147,2XU,Active,Men,1,2XU Non-Stirrup Compression Calf Guard,40.45000076293945
+18664,2XU,Active,Men,1,2XU Recovery Compression Leg Sleeves,59.95000076293945
+13122,2XU,Swim,Women,1,2XU Women's Swimmers Compression Long Sleeve Top,150.41000366210938
+25089,5.11,Socks,Men,1,3 - Prs. 5.11 Tactical 9 inch Socks Black,31.8799991607666
+13729,Kalon,Accessories,Women,3,3 PACK: Single Layer Cotton Spandex 4.5 Raw Edge Sports & Yoga Headband,9.989999771118164
+15467,Kalon,Plus,Women,3,3 PACK: Single Layer Cotton Spandex 4.5 Raw Edge Sports & Yoga Headband,9.989999771118164
+24532,J.B. Icelandic (Extreme Cold Activity),Socks,Men,3,3 PAIR -30 BELOW THERMAL WINTER SOCKS (MERINO WOOL),33
+18150,J.B. Icelandic (Extreme Cold Activity),Active,Men,3,3 PAIR -30 BELOW THERMAL WINTER SOCKS (MERINO WOOL),33
+7646,Hot from Hollywood,Blazers & Jackets,Women,1,3/4 Sleeve Cropped Knit Illusion Pocket Button Up Business Casual Blazer S M L,24.989999771118164
+24732,35 Degree Below,Socks,Men,3,35 Degree Below Thermal Winter Socks Large Gray,16.059999465942383
+297,LAT Sportswear,Tops & Tees,Women,2,3608 LAT Junior Fine Jersey Long-Sleeve Longer-Length Tee - White - S,17.989999771118164
+6161,Stella Elyse,Leggings,Women,1,3D Graphic Leopard Spots Fuschia/Tan Cotton Leggings,21.989999771118164
+15455,Kalon,Plus,Women,3,4 Pack: 3/4 Inch Wide Glitter Headband Elastic Back,6.989999771118164
+13722,Kalon,Accessories,Women,3,4 Pack: 3/4 Inch Wide Glitter Headband Elastic Back,6.989999771118164
+28646,MG,Accessories,Men,1,4 Panel Large Bill Flap Hat W15S48B (One Size Fits Most/Khaki),19.989999771118164
+7953,525 America,Blazers & Jackets,Women,3,525 America Women's  Blazer,158
+8467,525 America,Outerwear & Coats,Women,3,525 America Women's Basic Lined Rabbit Fur Vest,135.4499969482422
+22994,555 Turnpike,Shorts,Men,1,555 Turnpike Big & Tall Twill Cargo Shorts,39.9900016784668
+22106,555 Turnpike,Pants,Men,1,555 Turnpike Big & TallTwill Cargo Pants,50
+25967,Guide Gear,Underwear,Men,3,6 - Pk. Guide Gear Pouch Briefs,24.989999771118164
+24259,66 North,Outerwear & Coats,Men,1,66 North Men's Esja Jacket,159.99000549316406
+13771,Wayfarers,Accessories,Women,2,80s Wayfarer Party Sunglasses W Mustache W168,9.989999771118164
+15550,Wayfarers,Plus,Women,2,80s Wayfarer Party Sunglasses W Mustache W168,9.989999771118164
+28571,Wayfarers,Accessories,Men,2,80s Wayfarer Party Sunglasses W Mustache W168,9.989999771118164
+19136,UltraClub,Sweaters,Men,1,8516 UltraClub Interlock Turtleneck,29.93000030517578
+28344,Vine Branch,Accessories,Men,3,910EB Fine Leather Hand Crafted Mans Man's Mens Men's Mini Wallet ID Credit Card Holder with Magnetic Money Clip,4.079999923706055
+10873,Olga,Intimates,Women,3,913 Olga Secret Hug Nylon Fashion Scoops Halfpant 3 pack,24
+26633,Funny Apparel,Sleep & Lounge,Men,1,A Christmas Story You'll shoot your eye out! Fleece Lounge Pants,18.989999771118164
+4213,Elan USA,Jumpsuits & Rompers,Women,2,A Elan Usa Beautiful Strapless Jumpsuit w/ 3/4 Length (MD730),32.95000076293945
+13384,A shore Fit,Swim,Women,2,A Shore Fit Womens Brown Polka Dot Swimdress Swimming Suit Swim Dress Bathing,69.98999786376953
+5134,A. Byer,Pants & Capris,Women,1,A. Byer Juniors Cuffed Tropical Cambridge Pant,25
+7162,A. Byer,Skirts,Women,1,A. Byer Juniors Pegged Skirt With Button Yoke,25
+3490,A. Byer,Dresses,Women,1,A. Byer Juniors Print Hmc Tube Top Dress,25
+3644,A. Byer,Dresses,Women,1,A. Byer Juniors Strapless Stripe Pleated Bodice Dress,25
+5116,A. Byer,Pants & Capris,Women,1,A. Byer Juniors Tropical Cambridge Pant,40
+7873,A. Byer,Blazers & Jackets,Women,1,A. Byer Snake Print Jacket BLACK Md,55
+7857,A. Byer,Blazers & Jackets,Women,1,A. Byer Snake Print Jacket BLACK Sm,55
+16213,Alternative,Tops & Tees,Men,2,AA1938 Alternative Unisex 4.4 oz. Long-Sleeve Raglan Henley,39.9900016784668
+17319,Alternative,Fashion Hoodies & Sweatshirts,Men,2,AA9590 Alternative Unisex 6.4 oz Rocky Full-Zip Hoodie,49.9900016784668
+11675,ADVADRI,Intimates,Women,3,ADVADRI Crop Top Camisole,16.989999771118164
+3206,AGB,Dresses,Women,1,AGB Women's Long Sleeve Striped Sweater Dress,79
+3943,AGB,Dresses,Women,1,AGB Women's Plus-Size Ruched Short Sleeve V-Neck Dress with Empire Waistline,53.20000076293945
+3660,AGB,Dresses,Women,1,AGB Women's Short Sleeve Cowl Necked Sweater Dress,50.38999938964844
+3682,AGB,Dresses,Women,1,AGB Women's Striped Long Sleeve Sweater Dress With Sash,45.349998474121094
+9239,AJs,Socks & Hosiery,Women,2,AJs 23 Solid Colored Leg Warmers w/ Welt,10
+2644,AJs,Active,Women,2,AJs Adult Striped Knee Socks,8.5
+2630,AJs,Active,Women,2,AJs Retro Knee High Tube Socks,8.75
+9087,AJs,Socks & Hosiery,Women,2,AJs Retro Over The Knee Tube Socks,10
+7774,Anne Klein,Blazers & Jackets,Women,2,AK Anne Klein Women's 1 Button Buckle Detail Jacket,189
+3306,Anne Klein,Dresses,Women,2,AK Anne Klein Women's Cap Sleeve Scoopneck Solid Dress,67.47000122070312
+3163,Anne Klein,Dresses,Women,2,AK Anne Klein Women's Honeycomb Fade Short Sleeve,129
+8307,Anne Klein,Outerwear & Coats,Women,2,AK Anne Klein Women's Laura Coat,125
+7594,Anne Klein,Blazers & Jackets,Women,2,AK Anne Klein Women's Longsleeve Shawl Collar One Button Jacket,129
+7830,Anne Klein,Blazers & Jackets,Women,2,AK Anne Klein Women's Lurex Tweed Jacket,113.4000015258789
+7838,Anne Klein,Blazers & Jackets,Women,2,AK Anne Klein Women's One Button Blazer,99
+7340,Anne Klein,Skirts,Women,2,AK Anne Klein Women's Plus Size Lace Slim Skirt,139
+7820,Anne Klein,Blazers & Jackets,Women,2,AK Anne Klein Women's Plus Size Lurex Tweed Jacket,199
+7684,Anne Klein,Blazers & Jackets,Women,2,AK Anne Klein Women's Shawl Collar Sweater Jacket,129
+7799,Anne Klein,Blazers & Jackets,Women,2,AK Anne Klein Women's Stretch Crepe 1 Button Blazer,189
+7800,Anne Klein,Blazers & Jackets,Women,2,AK Anne Klein Women's Washed Satin Button Front Blazer,169
+8372,Anne Klein,Outerwear & Coats,Women,2,AK Anne Klein Women's Xenia Coat,145.13999938964844
+6390,Amethyst Jeans,Shorts,Women,3,AMETHYST JEANS Raw Edge Womens Denim Shorts,24.989999771118164
+6110,AN1225,Leggings,Women,2,AN1225 Women's Fashion Jean Style Leggings - Blue,6.590000152587891
+14111,AN1225,Accessories,Women,2,AN1225 Women's Leopard Pattern Fashion Scarf,9.989999771118164
+5930,AN1225,Leggings,Women,2,AN1225 Women's Solid Color Leggings - Hot Pink,6.949999809265137
+15338,AN1225,Plus,Women,2,AN1225 Women's Watercolor Pattern Fashion Scarf,9.949999809265137
+13658,AN1225,Accessories,Women,2,AN1225 Women's Watercolor Pattern Fashion Scarf,9.949999809265137
+12916,Sheridyn Swim,Swim,Women,3,ANGEL by Sheridyn Swim. Classic cut bikini bottom with side ties,19.899999618530273
+12883,Sheridyn Swim,Swim,Women,3,ANGEL by Sheridyn Swim. Padded underwired halter neck bikini top,29.899999618530273
+12911,Sheridyn Swim,Swim,Women,3,ANGEL by Sheridyn Swim. Padded underwired halter neck bikini top,29.899999618530273
+8235,Anne Klein,Suits,Women,2,ANNE KLEIN Pinstripe Ruffle Collar Pants Suit,148
+8161,Anne Klein,Suits,Women,2,ANNE KLEIN Velvet Golden Sapphire 2-PC Jacket/Pant Suit,166
+28883,MyEyeglassCase,Accessories,Men,1,AS196 Medium Smooth Eyeglass Case,7.949999809265137
+15908,MyEyeglassCase,Plus,Women,1,AS196 Medium Smooth Eyeglass Case,7.949999809265137
+2796,ASICS,Active,Women,1,ASCIS Cushion Low Socks (Pack of 3),903
+2677,ASICS,Active,Women,1,ASCIS Hydrology Low Socks (Pack of 3),16.989999771118164
+2691,ASICS,Active,Women,1,ASCIS Intensity Low Socks (Pack of 3),13.649999618530273
+18768,ASICS,Active,Men,1,ASICS Men's ASX Boxer,25
+18163,ASICS,Active,Men,1,ASICS Men's Asics Core Long Sleeve Top,30
+18451,ASICS,Active,Men,1,ASICS Men's Favorite Long Sleeve Top,45.9900016784668
+16875,ASICS,Tops & Tees,Men,1,ASICS Men's Favorite Short Sleeve Top,42
+18773,ASICS,Active,Men,1,ASICS Men's Favorite Short Sleeve Top,42
+18154,ASICS,Active,Men,1,ASICS Men's Myles II Running Pant,49.95000076293945
+18132,ASICS,Active,Men,1,ASICS Men's Myles II Running Tight,25
+18290,ASICS,Active,Men,1,ASICS Men's Running Compression Long Sleeve,39.9900016784668
+18418,ASICS,Active,Men,1,ASICS Men's Team Medley Tight,34.189998626708984
+13710,ASICS,Accessories,Women,1,ASICS Unisex Adult Thrmopolis LT Beanie,22
+28486,ASICS,Accessories,Men,1,ASICS Unisex Adult Thrmopolis LT Beanie,22
+15448,ASICS,Plus,Women,1,ASICS Unisex Adult Thrmopolis LT Beanie,22
+271,ASICS,Tops & Tees,Women,1,ASICS Women's Circuit 7 Singlet,18.950000762939453
+2595,ASICS,Active,Women,1,ASICS Women's Circuit 7 Warm-Up Long Sleeve Short,22
+567,ASICS,Tops & Tees,Women,1,ASICS Women's Competition Long Sleeve,39.9900016784668
+2739,ASICS,Active,Women,1,ASICS Women's Hydrology Low Sock,16.989999771118164
+2493,ASICS,Active,Women,1,ASICS Women's Intensity Low Sock,13.649999618530273
+2991,ASICS,Active,Women,1,ASICS Women's Intensity Quarter Sock,14.449999809265137
+14345,ASICS,Maternity,Women,1,ASICS Women's Legato II Tight,26.959999084472656
+2548,ASICS,Active,Women,1,ASICS Women's Low Cut Short,28
+2480,ASICS,Active,Women,1,ASICS Women's Performance Running Capri Tight,36
+2986,ASICS,Active,Women,1,ASICS Women's Ready Set Short Sleeve Top,25
+8754,ASICS,Outerwear & Coats,Women,1,ASICS Women's Thermopolis LT Jacket,84.98999786376953
+13098,Athena,Swim,Women,2,ATHENA Women's Heavenly Bandeau Bra,61
+13331,Athena,Swim,Women,2,ATHENA Women's Heavenly Bandeau Fauxkini,97
+13000,Athena,Swim,Women,2,ATHENA Women's Heavenly Halter Fauxini,69.26000213623047
+13315,Athena,Swim,Women,2,ATHENA Women's Isle Of Capri Halter Tankini,63
+13328,Athena,Swim,Women,2,ATHENA Women's Trinidad Banded Pant,33.75
+6217,Yelete,Leggings,Women,2,Acid Wash Jean Dark Leggings,15.989999771118164
+19127,ANS,Sweaters,Men,2,Acrylic Commando Sweater 1/4 Zip Olive Drab,33.5
+449,Active Products,Tops & Tees,Women,2,Active Basic Cotton Spandex Juniors Slim Fit Tank Top,10.989999771118164
+12525,Fullness,Intimates,Women,2,Add Ons Bra Band Extender- 3 Hook Style Pack of 3 (1 White 1 Black 1 Beige),9.289999961853027
+9603,Alexander Del Rossa,Sleep & Lounge,Women,1,Adele - Victorian White Cotton Long Nightgown,29.989999771118164
+14244,SK Hat shop,Accessories,Women,2,Adjustable Hand Knit Headwrap Headband Chunky Flower Wide Solid Black,16.950000762939453
+13049,Hot from Hollywood,Swim,Women,1,Adjustable String Tie Halter Top One Piece Bathing Suit Swimsuit Swimwear S M L,38.9900016784668
+12120,Adriana,Intimates,Women,3,Adriana Arango High Quality Jeans Chemise Hiphugger Included 7463 Made in Colombia,32.95000076293945
+16799,JustNeonTees,Tops & Tees,Men,2,Adult Bright Neon Tank Top in 6 Bright Colors,12.989999771118164
+2238,Activewear Apparel,Fashion Hoodies & Sweatshirts,Women,1,Adult Unisex Love Love Hoops Zipper Hoodie,41.9900016784668
+28928,Baby Banz,Accessories,Men,2,Adventure KidZ BanZ Age 2-5 Sunglasses,14.34000015258789
+14058,Buckle Down,Accessories,Women,1,Adventure Time Marceline Seat Belt Buckle Belt,24.989999771118164
+13252,Aerin Rose,Swim,Women,1,Aerin Rose Solid Swim Skirt with High Waisted Bottom (85511),30
+9377,Aerosoles,Socks & Hosiery,Women,1,Aerosoles Women's 6-Pairs Athletic Low Cut Socks with Half Cushion - Many Cute Patterns,11.989999771118164
+20163,Affazy,Suits & Sport Coats,Men,2,Afazzy Chestnut Travel Blazer,88
+20035,Affazy,Suits & Sport Coats,Men,2,Affazy Solid Navy Blazer,68
+21084,Agave,Jeans,Men,1,Agave Men's Waterman Relaxed Grey Jean,205
+21266,Agave,Jeans,Men,1,Agave Men's Waterman Relaxed Soft Jean,185
+10606,Carol Wright Gifts,Intimates,Women,2,Ahh Bra,19.979999542236328
+9738,Aimee Gowns,Sleep & Lounge,Women,1,Aimee Gowns Original Bra-less Nursing Gown,39.95000076293945
+7219,Anne Klein,Skirts,Women,2,Ak Anne Klein Women's Petite Jacquard Skirt with Pleats,52.130001068115234
+17995,Akomplice,Fashion Hoodies & Sweatshirts,Men,1,Akomplice - AK Hooded Varsity Mens Jacket in Black/Grey,120
+19082,Alex Cannon,Sweaters,Men,2,Alex Cannon Men's Autumnal Fairisle Sweater,69.98999786376953
+19343,Alex Cannon,Sweaters,Men,2,Alex Cannon Men's Multi Argyle Sweater,69.98999786376953
+19297,Alex Cannon,Sweaters,Men,2,Alex Cannon Men's Multi Stripe Sweater,69.98999786376953
+18914,Alex Cannon,Sweaters,Men,2,Alex Cannon Men's Sleeveless Full Zip Vest Jacket,69.98999786376953
+19125,Alex Cannon,Sweaters,Men,2,Alex Cannon Men's Textured Zig Zag Sweater,69.98999786376953
+19033,Alex Stevens,Sweaters,Men,1,Alex Stevens Men's Alternating Cardigan,28
+19100,Alex Stevens,Sweaters,Men,1,Alex Stevens Men's Basketweave Quarter Zip,34.31999969482422
+18908,Alex Stevens,Sweaters,Men,1,Alex Stevens Men's Center Cable Shawl,42.0099983215332
+18856,Alex Stevens,Sweaters,Men,1,Alex Stevens Men's Chevron Cuff Cardigan,26
+18896,Alex Stevens,Sweaters,Men,1,Alex Stevens Men's Chevron Cuff Full Zip Cardigan,28
+18984,Alex Stevens,Sweaters,Men,1,Alex Stevens Men's Front Pocket Sweater,36
+19064,Alex Stevens,Sweaters,Men,1,Alex Stevens Men's Full-Zip Military Cardigan,36
+17260,Alex Stevens,Fashion Hoodies & Sweatshirts,Men,1,Alex Stevens Men's Plain Hoodie,25
+18877,Alex Stevens,Sweaters,Men,1,Alex Stevens Men's Ribbed Full-Zip Mock Neck Sweater,35.4900016784668
+18867,Alex Stevens,Sweaters,Men,1,Alex Stevens Men's Ribbed Qzip Mock Neck Sweater,35.4900016784668
+18826,Alex Stevens,Sweaters,Men,1,Alex Stevens Men's Ribbed Turtle Neck,30.18000030517578
+18997,Alex Stevens,Sweaters,Men,1,Alex Stevens Men's Ribbed V-neck Sweater,32.540000915527344
+19431,Alex Stevens,Sweaters,Men,1,Alex Stevens Men's Shawl Collar Sweater,28
+17188,Alex Stevens,Fashion Hoodies & Sweatshirts,Men,1,Alex Stevens Men's Stripe Hood Lining Hoodie,25
+19083,Alex Stevens,Sweaters,Men,1,Alex Stevens Men's Striped Cardigan,28
+28348,Alexander Julian,Accessories,Men,1,Alexander Julian Men's Boxed Tie Gift Set,19.989999771118164
+7767,Alfred Dunner,Blazers & Jackets,Women,2,Alfred Dunner Autumn Weekend Zip Up Printed Blazer,36.9900016784668
+5207,Alfred Dunner,Pants & Capris,Women,2,Alfred Dunner Bella Luna Flat Front Pants,29.989999771118164
+979,Alfred Dunner,Sweaters,Women,2,Alfred Dunner Classics Button Down Cardigan Sweater,36.9900016784668
+5128,Alfred Dunner,Pants & Capris,Women,2,Alfred Dunner Classics Elastic Waist Corduroy Pants,29.989999771118164
+7273,Alfred Dunner,Skirts,Women,2,Alfred Dunner Classics Elastic Waist Straight Skirt,22.989999771118164
+5204,Alfred Dunner,Pants & Capris,Women,2,Alfred Dunner Classics Missy Elastic Waist Pants,22.989999771118164
+5122,Alfred Dunner,Pants & Capris,Women,2,Alfred Dunner Classics Petite Elastic Waist Pants,22.989999771118164
+5171,Alfred Dunner,Pants & Capris,Women,2,Alfred Dunner Classics Petite Elastic Waist Pants,22.989999771118164
+7748,Alfred Dunner,Blazers & Jackets,Women,2,Alfred Dunner Going Native Open Front Patterned Jacket,39.9900016784668
+5257,Alfred Dunner,Pants & Capris,Women,2,Alfred Dunner Jean Pool Flat Front Pants,31.989999771118164
+5618,Alfred Dunner,Pants & Capris,Women,2,Alfred Dunner Jean Pool Zip Up Button Fly Pants,31.989999771118164
+1400,Alfred Dunner,Sweaters,Women,2,Alfred Dunner Lake Geneva Fairisle Chenille Sweater,41.9900016784668
+7604,Alfred Dunner,Blazers & Jackets,Women,2,Alfred Dunner Love At First Sigh 3/4 Sleeve Open Front Blazer,39.9900016784668
+7754,Alfred Dunner,Blazers & Jackets,Women,2,Alfred Dunner Mulberrry Street 3/4 Sleeve 2 Button Blazer,36.9900016784668
+5182,Alfred Dunner,Pants & Capris,Women,2,Alfred Dunner Party Animal Elastic Waist Velour Pants,29.989999771118164
+5232,Alfred Dunner,Pants & Capris,Women,2,Alfred Dunner Rustic Charm Elastic Waist Twill Pants,29.989999771118164
+4673,Alfred Dunner,Jeans,Women,2,Alfred Dunner Rustic Charm Flat Front Denim Pants,31.989999771118164
+7746,Alfred Dunner,Blazers & Jackets,Women,2,Alfred Dunner Silver Spring 3/4 Sleeve Open Front Blazer,39.9900016784668
+5660,Alfred Dunner,Pants & Capris,Women,2,Alfred Dunner Spring Classics Petite Elastic Waist Pants,22.989999771118164
+5639,Alfred Dunner,Pants & Capris,Women,2,Alfred Dunner Stockbridge Flat Front Elastic Back Microfiber Pants,26.989999771118164
+5421,Alfred Dunner,Pants & Capris,Women,2,Alfred Dunner Top Notch Flat Front Pinstripe Pants,31.989999771118164
+7494,Alfred Dunner,Blazers & Jackets,Women,2,Alfred Dunner Women's Animal Print,38.560001373291016
+1739,Alfred Dunner,Fashion Hoodies & Sweatshirts,Women,2,Alfred Dunner Women's Anti Pill Medallion Crew Neck,50
+7672,Alfred Dunner,Blazers & Jackets,Women,2,Alfred Dunner Women's Aztec Print Jacket,51
+5336,Alfred Dunner,Pants & Capris,Women,2,Alfred Dunner Women's Cargo Capri Short,25
+1012,Alfred Dunner,Sweaters,Women,2,Alfred Dunner Women's Chenille Mock Neck Sweater,50
+7669,Alfred Dunner,Blazers & Jackets,Women,2,Alfred Dunner Women's Crushed Texture Jacket,40.619998931884766
+7908,Alfred Dunner,Blazers & Jackets,Women,2,Alfred Dunner Women's Crystal Embellished Jacket,49.5
+4463,Alfred Dunner,Jeans,Women,2,Alfred Dunner Women's Medium Length Pant,30
+5106,Alfred Dunner,Pants & Capris,Women,2,Alfred Dunner Women's Medium Pant,44
+6335,Alfred Dunner,Shorts,Women,2,Alfred Dunner Women's Plaid Short,25
+5272,Alfred Dunner,Pants & Capris,Women,2,Alfred Dunner Women's Proportioned Medium Pant,25
+5522,Alfred Dunner,Pants & Capris,Women,2,Alfred Dunner Women's Proportioned Medium Pant,44
+4877,Alfred Dunner,Jeans,Women,2,Alfred Dunner Women's Short Length Pant,30
+1248,Alfred Dunner,Sweaters,Women,2,Alfred Dunner Women's Solid Stitch Sweater,25
+3497,Ali Ro,Dresses,Women,3,Ali Ro Women's Short Sleeve Sequin Dress,158.75999450683594
+3853,Alice & Trixie,Dresses,Women,1,Alice & Trixie Women's Elsa Dress,36.25
+3122,Alice & Trixie,Dresses,Women,1,Alice & Trixie Women's Georgina Tunic,325
+4051,Alice & Trixie,Dresses,Women,1,Alice & Trixie Women's Kaitlyn Strapless Dress,41.25
+3653,Alice & Trixie,Dresses,Women,1,Alice & Trixie Women's Long Astrid Dress,37.5
+3828,Alice & Trixie,Dresses,Women,1,Alice & Trixie Women's Zinnia Dress,37
+9621,Alivila.Y Fashion,Sleep & Lounge,Women,1,Alivila.Y Fashion Sexy Lace Lingerie Sleepwear Sleep Dress Set With G-String 402,2.990000009536743
+2474,Alki'i,Active,Women,1,Alki'i 2-Pack Junior Womens lounge/workout/gym/yoga pants,27.989999771118164
+9673,Alki'i,Sleep & Lounge,Women,1,Alki'i 2-pack Womens Plaid Print Pajama PJs Shorts Set,14.989999771118164
+13622,Alki'i,Accessories,Women,1,Alki'i 3M Thinsulate Thermal Insulation Fingerless Texting Gloves with Mitten Cover - 2 colors,14.989999771118164
+7110,Alki'i,Skirts,Women,1,Alki'i A-Lined Mid Length Skirt with Elastic Waistband,15.989999771118164
+13646,Alki'i,Accessories,Women,1,Alki'i Braided Aviator womens warm beanie snowboarding winter snow hats - 5 colors,9.989999771118164
+15577,Alki'i,Plus,Women,1,Alki'i Braided Neon Aviator warm beanie snowboarding winter snow hats -4 colors,9.989999771118164
+12867,Alki'i,Swim,Women,1,Alki'i Classic Unisex Boardshorts,5.989999771118164
+26677,Alki'i,Sleep & Lounge,Men,1,Alki'i Cotton elastic draw string with side pockets lounge plaid pajama pants with button fly many colors,12.989999771118164
+7102,Alki'i,Skirts,Women,1,Alki'i Embroidered Full/Ankle Length gypsy bohemian long skirt,19.989999771118164
+7106,Alki'i,Skirts,Women,1,Alki'i Embroidered lace sequin full gypsy bohemian mid length skirt Many colors,19.989999771118164
+921,Alki'i,Sweaters,Women,1,Alki'i Full sleeve V-neck thigh high cardigan - Double Breasted- 4 colors,26.989999771118164
+965,Alki'i,Sweaters,Women,1,Alki'i Full sleeve hooded button thigh high cardigan - full cable knit- 4 colors,31.989999771118164
+988,Alki'i,Sweaters,Women,1,Alki'i Full sleeve hooded buttoned thigh high cardigan - ZigZag- 4 colors,31.989999771118164
+2468,Alki'i,Active,Women,1,Alki'i Junior Womens lounge/workout/gym/yoga pants,14.989999771118164
+22760,Alki'i,Shorts,Men,1,Alki'i Men's Basic Twill Cargo Shorts,12.989999771118164
+22748,Alki'i,Shorts,Men,1,Alki'i Men's Basic Twill Cargo Shorts 2-pack,24.989999771118164
+27490,Alki'i,Swim,Men,1,Alki'i Men's Boardshorts - Isla Palms,16.989999771118164
+27635,Alki'i,Swim,Men,1,Alki'i Men's Hybrid Boardshorts - Surfer Postcard Print,16.989999771118164
+23776,Alki'i,Outerwear & Coats,Men,1,Alki'i Mens 1/4-Zip Lightweight Performance Micro Fleece Pullover jacket,17.989999771118164
+7171,Alki'i,Skirts,Women,1,Alki'i Mid length salsa evening party skirt with ruffles 18 different styles,19.989999771118164
+12756,Alki'i,Swim,Women,1,Alki'i Misses Halter Top Beach Dress,19.989999771118164
+3265,Alki'i,Dresses,Women,1,Alki'i Missy Hibiscus Halter Summer Beach Sun Dress - Kauai Print,25
+3218,Alki'i,Dresses,Women,1,Alki'i Missy Hibiscus Tank Top Summer Beach Sun Dress - OahuPrint,25
+3302,Alki'i,Dresses,Women,1,Alki'i Missy Hibiscus Tube Summer Beach Sun Dress - Maui Print,25
+231,Alki'i,Tops & Tees,Women,1,Alki'i Premium 3-pack Spaghetti Strap Tank Top Cami Set,25
+28322,Alki'i,Accessories,Men,1,Alki'i Premium Cuffed thick mens/womens warm beanie snowboarding winter hats - many colors,9.989999771118164
+28474,Alki'i,Accessories,Men,1,Alki'i Ribbed heavy gauge mens/womens warm beanie snowboarding winter hats - 6 colors,8.989999771118164
+3544,Alki'i,Dresses,Women,1,Alki'i Round Yoke Strechy Flare Evening Casual Wedding Midlength Dress (13 prints),31.989999771118164
+13642,Alki'i,Accessories,Women,1,Alki'i Suede Palm 3M Thinsulate Thermal Insulation Fingerless Texting Work Gloves with Mitten Cover - 2 colors,14.989999771118164
+3255,Alki'i,Dresses,Women,1,Alki'i Sundress/Coverup/casual dress with shoulder straps (6 prints),11.989999771118164
+28329,Alki'i,Accessories,Men,1,Alki'i cube mens/womens warm beanie snowboarding winter hats - 6 colors,8.989999771118164
+28343,Alki'i,Accessories,Men,1,Alki'i striped mens/womens warm beanie snowboarding winter hats - 6 colors,8.989999771118164
+9218,Luxury Divas,Socks & Hosiery,Women,1,All Black Plain Thick Knit Slouchy Legwarmers,9.989999771118164
+22245,Altamont,Pants,Men,1,Altamont Men's Alameda Overdye Pant,58
+22566,Altamont,Pants,Men,1,Altamont Men's Davis Chino - Pants,59.95000076293945
+23234,Altamont,Shorts,Men,1,Altamont Men's Davis Chino Short,37.5
+21846,Altamont,Pants,Men,1,Altamont Men's Davis Slim Chino Pant,59.95000076293945
+22633,Altamont,Pants,Men,1,Altamont Men's Davis Slim Highwater Pant,55.95000076293945
+17895,Altamont,Fashion Hoodies & Sweatshirts,Men,1,Altamont Mens Die Pullover Hoodie,79.98999786376953
+19987,Altamont,Suits & Sport Coats,Men,1,Altamont Mens Victorville Jacket,78
+21179,Altamont,Jeans,Men,1,Altamont Young Young Men's Wilshire Basic Pants,55.95000076293945
+17341,Alternative,Fashion Hoodies & Sweatshirts,Men,2,Alternative - 4.2 oz. Long-Sleeve Pullover Hoodie,20.969999313354492
+17684,Alternative,Fashion Hoodies & Sweatshirts,Men,2,Alternative 4.2 oz. Long-Sleeve Pullover Hoodie,24.239999771118164
+204,Alternative,Tops & Tees,Women,2,Alternative AA4070 Ladies' 3.5 oz. Long-Sleeve Crew,29.989999771118164
+1579,Alternative,Fashion Hoodies & Sweatshirts,Women,2,Alternative AA9590 Long-Sleeve Zip Hoodie,49.9900016784668
+17168,Alternative,Fashion Hoodies & Sweatshirts,Men,2,Alternative AA9590 Long-Sleeve Zip Hoodie,49.9900016784668
+17108,Alternative,Fashion Hoodies & Sweatshirts,Men,2,Alternative Apparel Men's Long Sleeve Pullover Hoodie,54.849998474121094
+1256,Alternative,Sweaters,Women,2,Alternative Ladies 4.4 oz. Slouchy Pullover,20.93000030517578
+2810,Alternative,Active,Women,2,Alternative Ladies 6.4 oz. Maniac Sweatshirt - ECO GREY - S,69.98999786376953
+148,Alternative,Tops & Tees,Women,2,Alternative Ladies' Rib-Sleeve Scoopneck Long-Sleeve T-Shirt with Thumbholes,49.9900016784668
+16365,Alternative,Tops & Tees,Men,2,Alternative Men's Berke Urban Polo Shirt,36
+16272,Alternative,Tops & Tees,Men,2,Alternative Men's Boss V-Neck Tee,48.9900016784668
+17653,Alternative,Fashion Hoodies & Sweatshirts,Men,2,Alternative Men's Clifford Stripe Zip Hoodie,54.400001525878906
+17802,Alternative,Fashion Hoodies & Sweatshirts,Men,2,Alternative Men's Frey Hoodie,40
+18989,Alternative,Sweaters,Men,2,Alternative Men's Hal Cardigan,56
+17993,Alternative,Fashion Hoodies & Sweatshirts,Men,2,Alternative Men's Hoodlum Hoodie,62.400001525878906
+17611,Alternative,Fashion Hoodies & Sweatshirts,Men,2,Alternative Men's Inside Out Hoodie,51.9900016784668
+17138,Alternative,Fashion Hoodies & Sweatshirts,Men,2,Alternative Men's Rocky Zip Hoodie,53
+17107,Alternative,Fashion Hoodies & Sweatshirts,Men,2,Alternative Men's Zip Hoodie Shirt,49.9900016784668
+17529,Alternative,Fashion Hoodies & Sweatshirts,Men,2,Alternative Unisex 6.4 oz. Rocky Color-Blocked Full-Zip Hoodie,40.84000015258789
+17793,Alternative,Fashion Hoodies & Sweatshirts,Men,2,Alternative Unisex 6.4 oz. Rocky Color-Blocked Full-Zip Hoodie - ECO GRY/ECO TRU BLK - XS,75.4800033569336
+17384,Alternative,Fashion Hoodies & Sweatshirts,Men,2,Alternative Unisex Fleece Zip-Up Hoodie - WHITE - XXS,42.9900016784668
+9,Alternative,Tops & Tees,Women,2,Alternative Women's Alice Drop Shoulder V-Neck,54
+3689,Alternative,Dresses,Women,2,Alternative Women's Bellflower Tunic,68
+1338,Alternative,Sweaters,Women,2,Alternative Women's Cypress Top,48
+1695,Alternative,Fashion Hoodies & Sweatshirts,Women,2,Alternative Women's Dana Hoodie,68
+715,Alternative,Tops & Tees,Women,2,Alternative Women's Destroyed Short Sleeve Tee,29.989999771118164
+2516,Alternative,Active,Women,2,Alternative Women's Eco-Heather Long Pant,39.9900016784668
+14,Alternative,Tops & Tees,Women,2,Alternative Women's Florence Wrap,88
+504,Alternative,Tops & Tees,Women,2,Alternative Women's Long Sleeve Thermal Tee,29.989999771118164
+5764,Alternative,Leggings,Women,2,Alternative Women's Skinny Legging,54
+810,Alternative,Sweaters,Women,2,Alternative Women's Slouchy Pullover,59.9900016784668
+17186,Alternative,Fashion Hoodies & Sweatshirts,Men,2,Alternative Women's The Rocky Long Sleeve  Zip Fleece Hoodie,57.060001373291016
+8478,Alternative,Outerwear & Coats,Women,2,Alternative Women's The Rocky Long Sleeve  Zip Fleece Hoodie,57.060001373291016
+1581,Alternative,Fashion Hoodies & Sweatshirts,Women,2,Alternative Women's The Rocky Long Sleeve  Zip Fleece Hoodie,57.060001373291016
+5197,Alternative,Pants & Capris,Women,2,Alternative aa1987 Women's Eco-Heather Long Pant,45
+17522,American Fighter,Fashion Hoodies & Sweatshirts,Men,1,American Fighter By Affliction Recruit Men's Hoodie Pull Over Sweatshirt,44.9900016784668
+17500,American Fighter,Fashion Hoodies & Sweatshirts,Men,1,American Fighter By Affliction Syracuse Men's Hoodie Sweatshirt Zip Up,39.9900016784668
+20362,Hillside USA Leather Inc.,Suits & Sport Coats,Men,1,American Made. The Classic Vintage Leather Vest,171
+24930,Ames,Socks,Men,3,Ames Walker Style 166 Men's Microfiber Firm Support Travel Socks 15-20 - Available in Various Sizes and Colors,12.989999771118164
+9403,Ames,Socks & Hosiery,Women,3,Ames Walker Style 18 20-30mmHg Extra Firm Knee High - Available in Various Sizes and Colors,13.989999771118164
+9133,Ames,Socks & Hosiery,Women,3,Ames Walker Style 303 30-40 Surgical Weight Pantyhose Closed Toe - Available in Various Sizes and Colors,32.9900016784668
+8990,Ames,Socks & Hosiery,Women,3,Ames Walker Style 33 20-30 mmHg Extra Firm Sheer Support Pantyhose - Available in Various Sizes and Colors,23.989999771118164
+23476,Analog,Shorts,Men,2,Analog Tasmania 20 Boardshorts True Black,54
+9013,Chasse,Socks & Hosiery,Women,3,Animal Print Cheer Anklet,3.390000104904175
+8091,Anne Klein,Suits,Women,2,Anne Klein Classic Fit Urban Gem Skirt Suit Onyx Multi,169.99000549316406
+6582,Anne Klein,Shorts,Women,2,Anne Klein Collection Women's Lace Short,52.33000183105469
+7937,Anne Klein,Blazers & Jackets,Women,2,Anne Klein Collection Women's Shawl Collar Jacket,223.97000122070312
+7544,Anne Klein,Blazers & Jackets,Women,2,Anne Klein Collection Women's Shawl Collar Jacket,280.6700134277344
+7270,Anne Klein,Skirts,Women,2,Anne Klein Collection Women's Waistwrap Skirt,57.20000076293945
+7907,Anne Klein,Blazers & Jackets,Women,2,Anne Klein One Button Jacket,54.41999816894531
+7541,Anne Klein,Blazers & Jackets,Women,2,Anne Klein Wome's Plus-Size Tweed Jacket,119.06999969482422
+5428,Anne Klein,Pants & Capris,Women,2,Anne Klein Wome's Plus-Size Tweed Wide Leg Pant,79.13999938964844
+3518,Anne Klein,Dresses,Women,2,Anne Klein Women's 1x1 Rib And Flat Bord Dress,67.47000122070312
+8976,Anne Klein,Socks & Hosiery,Women,2,Anne Klein Women's 2-Pack Argyle  Cashmere Blend Socks Gift Set,16.989999771118164
+9037,Anne Klein,Socks & Hosiery,Women,2,Anne Klein Women's 2-Pack Dot  Cashmere Gift Set Socks,16.989999771118164
+8901,Anne Klein,Socks & Hosiery,Women,2,Anne Klein Women's 2-Pack Solid Cashmere Gift Set Socks,30
+15891,Anne Klein,Plus,Women,2,Anne Klein Women's 3 Pack Mesh Dot Trouser Sock,16
+8977,Anne Klein,Socks & Hosiery,Women,2,Anne Klein Women's 3 Pack Paisley Trouser Sock,16
+7281,Anne Klein,Skirts,Women,2,Anne Klein Women's A-Line Skirt,99
+8456,Anne Klein,Outerwear & Coats,Women,2,Anne Klein Women's Alicia Wool Coat,125
+9140,Anne Klein,Socks & Hosiery,Women,2,Anne Klein Women's Argyle Cashmere Crew,15
+20,Anne Klein,Tops & Tees,Women,2,Anne Klein Women's Bow Blouse,63.400001525878906
+40,Anne Klein,Tops & Tees,Women,2,Anne Klein Women's Button Front Blouse,89
+3813,Anne Klein,Dresses,Women,2,Anne Klein Women's Cap Sleeve Ponte Swing Dress,119
+5108,Anne Klein,Pants & Capris,Women,2,Anne Klein Women's Classic Pant,64
+7352,Anne Klein,Skirts,Women,2,Anne Klein Women's Classic Skirt,43.9900016784668
+3489,Anne Klein,Dresses,Women,2,Anne Klein Women's Color Banded Hem Swing Dress,53.939998626708984
+3137,Anne Klein,Dresses,Women,2,Anne Klein Women's Color Block Ponte Swing Dress,129
+7698,Anne Klein,Blazers & Jackets,Women,2,Anne Klein Women's Drape Front Jacket,107.98999786376953
+7553,Anne Klein,Blazers & Jackets,Women,2,Anne Klein Women's Drape Front Jacket,95.81999969482422
+3247,Anne Klein,Dresses,Women,2,Anne Klein Women's Faux Wrap Dress,85.79000091552734
+7261,Anne Klein,Skirts,Women,2,Anne Klein Women's Floor Length Skirt,67.93000030517578
+8234,Anne Klein,Suits,Women,2,Anne Klein Women's Glen Plaid Pant Suit,196.17999267578125
+3509,Anne Klein,Dresses,Women,2,Anne Klein Women's Jersey Swing Dress,79.13999938964844
+8090,Anne Klein,Suits,Women,2,Anne Klein Women's Melange Jacket And Skirt,133.3699951171875
+7252,Anne Klein,Skirts,Women,2,Anne Klein Women's Missy Yoke Skirt,54
+7517,Anne Klein,Blazers & Jackets,Women,2,Anne Klein Women's Mixed Media Jacket,107.16000366210938
+7708,Anne Klein,Blazers & Jackets,Women,2,Anne Klein Women's One Button Blazer,101.48999786376953
+905,Anne Klein,Sweaters,Women,2,Anne Klein Women's Open Cardigan,179
+7368,Anne Klein,Skirts,Women,2,Anne Klein Women's Petite Alligator Skirt,67.47000122070312
+7456,Anne Klein,Skirts,Women,2,Anne Klein Women's Petite Classic Skirt,54
+3328,Anne Klein,Dresses,Women,2,Anne Klein Women's Petite Dress,74.44999694824219
+107,Anne Klein,Tops & Tees,Women,2,Anne Klein Women's Petite Long Sleeve Drape Neck Top,59
+7569,Anne Klein,Blazers & Jackets,Women,2,Anne Klein Women's Petite Open Front Jacket,95.81999969482422
+5367,Anne Klein,Pants & Capris,Women,2,Anne Klein Women's Petite Tuxedo Pant,109
+7297,Anne Klein,Skirts,Women,2,Anne Klein Women's Petite Tuxedo Skirt,54.45000076293945
+7498,Anne Klein,Blazers & Jackets,Women,2,Anne Klein Women's Petite Tweed Jacket,69.97000122070312
+5338,Anne Klein,Pants & Capris,Women,2,Anne Klein Women's Petite Tweed Wide Leg Pant,44.970001220703125
+5704,Anne Klein,Pants & Capris,Women,2,Anne Klein Women's Pinstripe Pant,60.56999969482422
+5145,Anne Klein,Pants & Capris,Women,2,Anne Klein Women's Plus Size Classic Pant,69
+5,Anne Klein,Tops & Tees,Women,2,Anne Klein Women's Plus-Size Button Front Blouse,94
+7466,Anne Klein,Blazers & Jackets,Women,2,Anne Klein Women's Plus-Size Classic Blazer,109
+3342,Anne Klein,Dresses,Women,2,Anne Klein Women's Ponte Swing Dress,74.97000122070312
+3483,Anne Klein,Dresses,Women,2,Anne Klein Women's Sequin Dresss,149
+6411,Anne Klein,Shorts,Women,2,Anne Klein Women's Short With Pleats,25
+3453,Anne Klein,Dresses,Women,2,Anne Klein Women's Split Neck Shift Dress,89
+8340,Anne Klein,Outerwear & Coats,Women,2,Anne Klein Women's Stacy Coat,131.94000244140625
+3975,Anne Klein,Dresses,Women,2,Anne Klein Women's Structured Sleeve Twofer Dress,74.5
+8415,Anne Klein,Outerwear & Coats,Women,2,Anne Klein Women's Terry Coat,125
+3694,Anne Klein,Dresses,Women,2,Anne Klein Women's Tuxedo Dress,149
+5333,Anne Klein,Pants & Capris,Women,2,Anne Klein Women's Tuxedo Pant,109
+7142,Anne Klein,Skirts,Women,2,Anne Klein Women's Tuxedo Skirt,89
+7679,Anne Klein,Blazers & Jackets,Women,2,Anne Klein Women's Tweed Jacket,101.48999786376953
+3346,Anne Klein,Dresses,Women,2,Anne Klein Women's Two Tone Mixed Media Dolman Dress,85.79000091552734
+8336,Anne Klein,Outerwear & Coats,Women,2,Anne Klein Women's Vicky Coat,131.94000244140625
+9187,Anne Klein,Socks & Hosiery,Women,2,Anne Klein Womens Cashmere Sweater Tight,40
+14735,OURSURE.COM,Maternity,Women,3,Anti-Radiation Maternity Clothes Belly Tee with Radiation Shielding Grey Dresses Code: 8901306,38.97999954223633
+21037,Antique Rivet,Jeans,Men,2,Antique Rivet Men's Culbert Jean,115
+1422,Blarney Woollen Mills,Sweaters,Women,1,Aran Polo,80
+1272,Blarney Woollen Mills,Sweaters,Women,1,Aran Zip Cardigan,99
+16797,Arbor,Tops & Tees,Men,3,Arbor Men's Recycle Tee,29.950000762939453
+17514,Arbor,Fashion Hoodies & Sweatshirts,Men,3,Arbor Men's The Arbor Hoodie,74.94999694824219
+7185,Arbor,Skirts,Women,3,Arbor Monroe Skirt - Women's,43.95000076293945
+23880,Arc'teryx,Outerwear & Coats,Men,3,Arc'teryx Alpha FL Jacket - Men's,399
+3050,Arc'teryx,Active,Women,3,Arc'teryx Atom LT Vest - Women's,145
+8399,Arc'teryx,Outerwear & Coats,Women,3,Arc'teryx Atom SV Hooded Insulated Jacket - Women's,259
+24015,Arc'teryx,Outerwear & Coats,Men,3,Arc'teryx Men's Alpha SL Hybrid Jacket,339
+23758,Arc'teryx,Outerwear & Coats,Men,3,Arc'teryx Men's Atom SV Hoody,259
+23811,Arc'teryx,Outerwear & Coats,Men,3,Arc'teryx Men's Beta AR Jacket,475
+19345,Arc'teryx,Sweaters,Men,3,Arc'teryx Men's Cordin Pullover,135
+24424,Arc'teryx,Outerwear & Coats,Men,3,Arc'teryx Men's Crosswire Jacket,149
+24128,Arc'teryx,Outerwear & Coats,Men,3,Arc'teryx Men's Sabre Jacket,525
+23999,Arc'teryx,Outerwear & Coats,Men,3,Arc'teryx Men's Theta AR Jacket,525
+18783,Arc'teryx,Active,Men,3,Arc'teryx Phase AR Bottom - Men's,65
+24446,Arc'teryx,Outerwear & Coats,Men,3,Arc'teryx Theta SV Jacket - Men's,550
+8650,Arc'teryx,Outerwear & Coats,Women,3,Arc'teryx Women's Caliber Hoody,149
+8365,Arc'teryx,Outerwear & Coats,Women,3,Arc'teryx Women's Covert Cardigan,199
+8655,Arc'teryx,Outerwear & Coats,Women,3,Arc'teryx Women's Sylva Parka,399
+23906,Arc'teryx,Outerwear & Coats,Men,3,Arcteryx Beta SL Jacket - Men's,279
+20842,Ariat,Jeans,Men,1,Ariat 8398 Men's M2 Relaxed Granite,82.9000015258789
+20765,Ariat,Jeans,Men,1,Ariat 8403 Men's M4 Low Rise Boot Scoundrel,85.62999725341797
+5058,Ariat,Jeans,Women,1,Ariat 9437 Women's Double Trouble Boyfriend Sugar Devil,69.94999694824219
+4961,Armani,Jeans,Women,2,Armani Collezioni BLUE Cotton Jeans,71
+28843,Arnette,Accessories,Men,2,Arnette Men's Rage XL Polarized Sunglasses,109.94999694824219
+19176,ARROW,Sweaters,Men,2,Arrow Men's 12GG Classic Color Block Sweater,24
+19013,ARROW,Sweaters,Men,2,Arrow Men's 7GG Basic Windowpane Sweater,29.989999771118164
+19166,ARROW,Sweaters,Men,2,Arrow Men's 9GG End on End Texture Sweater,24
+16585,ARROW,Tops & Tees,Men,2,Arrow Men's Explorer Solid Woven Shirt,25
+16580,ARROW,Tops & Tees,Men,2,Arrow Men's Heritage Woven Shirt,20
+17101,ARROW,Fashion Hoodies & Sweatshirts,Men,2,Arrow Men's Partial-Button Sueded Fleece Heather,60
+16528,ARROW,Tops & Tees,Men,2,Arrow Men's Tartan Plaid Woven Shirt,25
+18961,ARROW,Sweaters,Men,2,Arrow Men's Windowpane Crew Sweater,25
+16453,ARROW,Tops & Tees,Men,2,Arrow Men's Wrinkle Free Pinpoint Solid Long Sleeve,25
+16464,ARROW,Tops & Tees,Men,2,Arrow Men's Wrinkle Free Poplin Solid Long Sleeve,29.989999771118164
+16149,ARROW,Tops & Tees,Men,2,Arrow Men's Wrinkle Free Poplin Solid Long Sleeve Shirt,25
+4033,As U Wish,Dresses,Women,3,As U Wish Juniors Embroidered Neck Smock Waist Dress,17.770000457763672
+3441,As U Wish,Dresses,Women,3,As U Wish Juniors Lace Knit Skater Illusion Dress,39
+3774,As U Wish,Dresses,Women,3,As U Wish Juniors Sweater Knit Belted Dress,59
+16836,Ashworth,Tops & Tees,Men,1,Ashworth 2038C Men's High Twist Cotton Tech Stripe Polo,71.0199966430664
+24265,Ashworth,Outerwear & Coats,Men,1,Ashworth Mens Micro Brushed Half-Zip Jacket - STONE - S,139.99000549316406
+5877,Luxury Divas,Leggings,Women,1,Asian Floral & Scroll Printed Footless Leggings Tights,16.989999771118164
+18767,ASICS,Active,Men,1,Asics Men's Core Tank,21.989999771118164
+132,ASICS,Tops & Tees,Women,1,Asics Women's Core Long Sleeve Shirt,30
+191,ASICS,Tops & Tees,Women,1,Asics Women's Core Short Sleeve Shirt,24.989999771118164
+2578,ASICS,Active,Women,1,Asics Women's Core Short Sleeve Shirt,24.989999771118164
+2992,ASICS,Active,Women,1,Asics Women's Core Tank,22
+2747,ASICS,Active,Women,1,Asics Women's Favorite Long Sleeve Shirt,45.9900016784668
+306,ASICS,Tops & Tees,Women,1,Asics Women's Favorite Long Sleeve Shirt,45.9900016784668
+12980,Hot from Hollywood,Swim,Women,1,Asymmetrical One Shoulder Beaded One Piece Striped Swimsuit Bathing Suit Swimwear,39.9900016784668
+17128,Authentic Pigment,Fashion Hoodies & Sweatshirts,Men,2,Authentic Pigment 11 oz. Pigment-Dyed Fleece Crew - POPPY - S,75.48999786376953
+18364,Authentic Pigment,Active,Men,2,Authentic Pigment 11 oz. Pigment-Dyed Ringspun Cotton Boxy Crew - POPPY - S,63.4900016784668
+17317,Authentic Pigment,Fashion Hoodies & Sweatshirts,Men,2,Authentic Pigment 11 oz. Pigment-Dyed Ringspun Cotton Full-Zip Hood - SMOKE - M,66.98999786376953
+16818,Authentic Pigment,Tops & Tees,Men,2,Authentic Pigment 1969 Dyed Ringspun T-Shirt,29.989999771118164
+17230,Authentic Pigment,Fashion Hoodies & Sweatshirts,Men,2,Authentic Pigment 80/20 Fleece Boxy Pullover Hood - POPPY - S,39.439998626708984
+17343,Authentic Pigment,Fashion Hoodies & Sweatshirts,Men,2,Authentic Pigment 80/20 Fleece Pullover Hood - POPPY - S,42.2400016784668
+2700,Authentic Pigment,Active,Women,2,Authentic Pigment 9 oz Women's Pigment-Dyed Stretch Yoga Pants 1960,33.849998474121094
+17783,Authentic Pigment,Fashion Hoodies & Sweatshirts,Men,2,Authentic Pigment Ringspun Cotton Boxy Hoodie. 1942,20
+12095,CorsetDeal,Intimates,Women,2,Authentic Steel Boned Waist Reducing Buckled Candy Stripe Brocade Corset,48.29999923706055
+1072,Autumn Cashmere,Sweaters,Women,1,Autumn Cashmere Women's New Rib Drape,286
+17423,Avenged Sevenfold,Fashion Hoodies & Sweatshirts,Men,2,Avenged Sevenfold Since 1999 Black Zip Hoodie New Adult,44.9900016784668
+7195,Baby'O Clothing Co.,Skirts,Women,2,BABY'O 27 pull on black stretch knit pencil skirt,27.989999771118164
+7240,Baby'O Clothing Co.,Skirts,Women,2,BABY'O 37 Long Pull on black stretch knit pencil skirt,29.989999771118164
+21784,Ballin,Pants,Men,2,BALLIN Men's Zig Zag Twill Manchester Pant,175
+3977,BCBGMAXAZRIA,Dresses,Women,3,BCBGMAXAZRIA Women's Abigail Knit Evening Dress,338
+4043,BCBGMAXAZRIA,Dresses,Women,3,BCBGMAXAZRIA Women's Adele Petite Printed Wrap Dress,111.98999786376953
+416,BCBGMAXAZRIA,Tops & Tees,Women,3,BCBGMAXAZRIA Women's Anderson Blouse With Cargo Pockets,158
+7500,BCBGMAXAZRIA,Blazers & Jackets,Women,3,BCBGMAXAZRIA Women's Aubree Relaxed Jacket,198
+7509,BCBGMAXAZRIA,Blazers & Jackets,Women,3,BCBGMAXAZRIA Women's Bowie Leopard Tuxedo Jacket,174.99000549316406
+7523,BCBGMAXAZRIA,Blazers & Jackets,Women,3,BCBGMAXAZRIA Women's Bowie Printed Tuxedo Jacket,248
+7475,BCBGMAXAZRIA,Blazers & Jackets,Women,3,BCBGMAXAZRIA Women's Bowie Tuxedo Jacket,178
+7493,BCBGMAXAZRIA,Blazers & Jackets,Women,3,BCBGMAXAZRIA Women's Bowie Tuxedo Jacket,228
+7542,BCBGMAXAZRIA,Blazers & Jackets,Women,3,BCBGMAXAZRIA Women's Bowie Tuxedo Jacket,199.99000549316406
+7563,BCBGMAXAZRIA,Blazers & Jackets,Women,3,BCBGMAXAZRIA Women's Cain Embellished Lapel Jacket,164
+5722,BCBGMAXAZRIA,Leggings,Women,3,BCBGMAXAZRIA Women's Chase Pleather Blocked Legging,138
+3240,BCBGMAXAZRIA,Dresses,Women,3,BCBGMAXAZRIA Women's Daly V-Neck Shirt Dress,158
+3719,BCBGMAXAZRIA,Dresses,Women,3,BCBGMAXAZRIA Women's Duran Strapless Cocktail Dress,183.05999755859375
+3865,BCBGMAXAZRIA,Dresses,Women,3,BCBGMAXAZRIA Women's Emmalise Woven Sportswear Dress,129.99000549316406
+1085,BCBGMAXAZRIA,Sweaters,Women,3,BCBGMAXAZRIA Women's Emmy Sweater Top,139.99000549316406
+3347,BCBGMAXAZRIA,Dresses,Women,3,BCBGMAXAZRIA Women's Enna Chevron Sequin Shift Dress,298
+3907,BCBGMAXAZRIA,Dresses,Women,3,BCBGMAXAZRIA Women's Etania Low Back Tank Dress,54.9900016784668
+7330,BCBGMAXAZRIA,Skirts,Women,3,BCBGMAXAZRIA Women's Gavin Sweater Skirt,198
+3454,BCBGMAXAZRIA,Dresses,Women,3,BCBGMAXAZRIA Women's Gisela Criss Cross Foil Print Dress,368
+3539,BCBGMAXAZRIA,Dresses,Women,3,BCBGMAXAZRIA Women's Hazel Rib Tank Dress,48
+7795,BCBGMAXAZRIA,Blazers & Jackets,Women,3,BCBGMAXAZRIA Women's Jaimy Novelty Back Jacket,261
+6679,BCBGMAXAZRIA,Shorts,Women,3,BCBGMAXAZRIA Women's Kyle Scarf Print Short,25
+5678,BCBGMAXAZRIA,Pants & Capris,Women,3,BCBGMAXAZRIA Women's Maria Woven Sportswear Pant,108
+5519,BCBGMAXAZRIA,Pants & Capris,Women,3,BCBGMAXAZRIA Women's Michael Relaxed Pant,80.9800033569336
+4047,BCBGMAXAZRIA,Dresses,Women,3,BCBGMAXAZRIA Women's Morris Knit Sportswear Dress,448
+3706,BCBGMAXAZRIA,Dresses,Women,3,BCBGMAXAZRIA Women's Palais One Shoulder Luxe Satin,248
+6771,BCBGMAXAZRIA,Shorts,Women,3,BCBGMAXAZRIA Women's Pia Casual Striped Short,56.439998626708984
+3824,BCBGMAXAZRIA,Dresses,Women,3,BCBGMAXAZRIA Women's Rigby Striped Ponte Sheath Dress,248
+3886,BCBGMAXAZRIA,Dresses,Women,3,BCBGMAXAZRIA Women's Seri Woven Evening Dress,368
+3503,BCBGMAXAZRIA,Dresses,Women,3,BCBGMAXAZRIA Women's Sheyna Fitted Ruffle Dress With Low Back,129.99000549316406
+3754,BCBGMAXAZRIA,Dresses,Women,3,BCBGMAXAZRIA Women's Skye Halter Dress With Cowl Neck,198
+7107,BCBGMAXAZRIA,Skirts,Women,3,BCBGMAXAZRIA Women's Textured Mini Power Skirt,138
+4199,BCBGMAXAZRIA,Jumpsuits & Rompers,Women,3,BCBGMAXAZRIA Women's Vance Scarf Print Jumpsuit,94.70999908447266
+3794,BCBGMAXAZRIA,Dresses,Women,3,BCBGMAXAZRIA Women's Weiss Knit Sportswear Dress,138
