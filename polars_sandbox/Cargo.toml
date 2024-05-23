@@ -7,7 +7,7 @@ edition = "2021"
 
 [dependencies]
 chrono = "0.4.38"
-polars = { version = "0.38.3", features = ["lazy", "strings", "json", "dtype-struct", "cross_join", "interpolate"]}
+polars = { version = "0.38.3", features = ["lazy", "strings", "json", "dtype-struct", "cross_join", "interpolate", "timezones"]}
 polars-ops = { version = "0.38.3", features = ["pivot"]}
 polars-sql = {version = "0.38.3"}
 serde = { version = "1.0.197", features = ["derive"] }
