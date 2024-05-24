@@ -7,7 +7,7 @@ use polars::{lazy::dsl::col, prelude::*};
 fn main() -> Result<(), PolarsError> {
     // ////////////////////////////////////////////////
     // @TODO 1 (Loading Data)
-    // Load the CSV files into
+    // Load the CSV files from the "data" folder into
     // "df_products", "df_dist" and "df_stocks" respectively
     // ////////////////////////////////////////////////
     // assert_eq!(df_products.shape(), (500, 7));
@@ -22,7 +22,7 @@ fn main() -> Result<(), PolarsError> {
 
     // ////////////////////////////////////////////////
     // @TODO 3 (SQL)
-    // Create the SQL context and register the two DataFrames
+    // Create the SQL context and register the DataFrames
     // ////////////////////////////////////////////////
 
     // ////////////////////////////////////////////////

@@ -15,7 +15,7 @@ fn main() -> Result<(), PolarsError> {
 
     // ////////////////////////////////////////////////
     // @TODO 1 (Loading Data)
-    // Load the CSV files into
+    // Load the CSV files from the "data" folder into
     // "df_products", "df_dist" and "df_stocks" respectively
     // ////////////////////////////////////////////////
     let df_products = CsvReader::from_path(prod_path).unwrap().finish()?;
