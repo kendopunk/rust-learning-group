@@ -6,5 +6,5 @@
  * $> cargo run --bin sandbox
  */
 fn main() {
-    println!("Hello, world!");
+    println!("Hello sandbox!");
 }
