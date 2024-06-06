@@ -1389,6 +1389,10 @@ name = "session5"
 version = "0.1.0"
 
 [[package]]
+name = "session9"
+version = "0.1.0"
+
+[[package]]
 name = "simd-json"
 version = "0.13.9"
 source = "registry+https://github.com/rust-lang/crates.io-index"

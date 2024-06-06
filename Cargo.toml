@@ -3,15 +3,16 @@
 resolver = "2"
 
 members = [
+  "polars_sandbox",
+  "polars1",
+  "polars2",
+  "polars3",
   "sandbox",
   "session1",
   "session2",
   "session3",
   "session4",
   "session5",
-  "polars_sandbox",
-  "polars1",
-  "polars2",
-  "polars3"
+  "session9"
 ]
 
